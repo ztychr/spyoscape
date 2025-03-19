@@ -1,0 +1,326 @@
+
+/* GENEREL CSS */
+/*
+#map {
+    height: 100vh;
+}
+
+
+/*.leaflet-container {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+*/
+
+
+
+html { height: 100%; }
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.map-link {
+    padding: 10px;
+}
+
+li {
+    list-style-position: outside;
+    margin-left: 20px;
+}
+
+li::before {
+    content: '';
+    background-image: url("/static/icons/pin.svg");
+    background-size: 10px;
+    width: 10px;
+    height: 10px;
+}
+
+header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10vh;
+  max-width: 80vw;
+}
+
+.content-map {
+    position: relative;;
+}
+
+.grid {
+    border-radius: 5px;
+    gap: 20px; /* Add space between the columns */
+}
+
+.grid header {
+    padding: 20px;
+
+}
+
+.grid > * {
+    border-radius: 5px 5px 5px 5px;
+    background-color: #262c30;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#map {
+    width: 100%;  /* Ensure map takes up the full width of its column */
+    height: 70vh; /* Ensure the map takes up the full height of the container */
+}
+
+/* Customize the popup image size */
+.leaflet-popup-content img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+img {
+    margin-bottom: 5px;
+    border-radius: 5px;
+    z-index: 400;
+}
+
+/* Custom style for the popup frame */
+.leaflet-popup .leaflet-zoom-animated {
+    width: 100%;
+}
+
+/* Custom style for the popup content */
+.leaflet-popup-content {
+    width: 60vw;
+    font-size: 14px;                /* Font size of the content */
+    padding-bottom: 5px;                  /* Padding inside the popup content */
+    text-align: center;
+    margin: 0px;
+}
+
+
+/* Custom style for the popup content */
+.leaflet-popup-content-wrapper {
+    font-size: 14px;                /* Font size of the content */
+    padding: 10px;                  /* Padding inside the popup content */
+    color: #333;                    /* Text color */
+    text-align: left;
+    border-radius: 5px;
+}
+
+/* Custom style for the popup tail (speech bubble) */
+.leaflet-popup-tip {
+    background-color: #fff;         /* Dark background for the tail */
+    border-radius: 3px;                /* Remove rounded corners */
+}      
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    	 url('../fonts/Ubuntu-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	 url('../fonts/Ubuntu-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@font-face {
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    	 url('../fonts/UbuntuMono-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	 url('../fonts/UbuntuMono-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+body {
+    background: #1C2024;
+    color: #fff;
+    margin: auto;
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.1px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    line-height: 48px; text-align: center;
+    text-shadow: 2px 2px 2px #202020;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1.article-header {
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 2px 2px 2px #202020;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 0px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+hr {
+    /*   border: none; */
+    color: #30383D;
+    /*    background-color: #30383D;*/
+    border-color: #30383D;
+    width: 95%;
+}
+
+.content-map {
+    max-width: 1600px;
+    /*height: 60%;*/
+    margin: auto;
+    background-color: #262c30;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+}
+
+.topnav {
+    margin-bottom: 20px;;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #1C2024;
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: bold;
+}
+
+.navbtn {
+    color: #f2f2f2;
+    display: block;
+    float: left;
+    background: #1C2024;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px;
+    border-radius: 5px;
+    min-width: 120px;
+    transition: 0.3s;
+}
+
+.navbtn:hover {
+    text-decoration: none;
+    background-color: #ddd;
+    color: #1C2024;
+    transition: 0.3s;
+}
+
+.footer {
+    font-size: 14px;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* OLD CSS */
+
+.insideurls {
+    text-decoration: none;
+    font-weight: bold;
+    color: #DBDBDB;
+}
+
+a.insideurls, a.insideurls:visited {
+    text-decoration: none;
+    font-weight: bold;
+    color: #DBDBDB;
+}
+
+
+a.insideurls:hover {
+    text-decoration: underline;
+}
+
+.insideurls:hover {
+    text-decoration: underline;
+}
+
+a, a:visited {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #DBDBDB;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+@media only screen and (min-width: 768px) {
+    .navbtn {
+        color: #f2f2f2;
+        width: 50%;
+        display: block;
+        background: #1C2024;
+        text-align: center;
+        text-decoration: none;
+        font-size: 17px;
+        border-radius: 5px;
+        padding: unset;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: auto 1fr;
+        height: 100vh;
+    }
+
+    .grid > * {
+        margin: 0px;
+    }
+
+    .grid header {
+        grid-column: 1 / -1;
+        margin-top: 20px;
+
+    }
+
+    .img {
+        width:100%;
+        height:100%;
+    }
+
+/*    .content-map {
+        padding: 0px;
+    }*/
+
+    #map {
+    height: 100%; /* Ensure the map takes up the full height of the container */
+    }
+
+    #links {
+
+        overflow-y: scroll;
+    }
+
+    .wrapper {
+        height: calc(100% - 20px);
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}

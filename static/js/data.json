@@ -1,0 +1,170 @@
+[
+    {
+        "lat": 55.660186,
+        "lng": 12.543522,
+        "name": "ALL YOU NEED IS LESS OF EVERYTHING",
+        "authors": ["SPYO"],
+        "image": "./static/images/all-you-need-is-less-of-everything.jpg"
+    },
+    {
+        "lat": 55.659767,
+        "lng": 12.552625,
+        "name": "APARNAGE TIL ALLE - SLUK FOR DE RIGES PRIVILEGIER",
+        "authors": ["SPYO"],
+        "image": "./static/images/aparnage-til-alle....jpg"
+    },
+    {
+        "lat": 55.655789,
+        "lng": 12.540328,
+        "name": "ARTISTIC INTEGRITY - YOU ARE ABOUT TO BECOME PRIVATIZED AS STATE GOVERNMENT PROPERTY",
+        "authors": ["SPYO"],
+        "image": "./static/images/artistic-integrity-you-are....jpg"
+    },
+    {
+        "lat": 55.657492,
+        "lng": 12.556389,
+        "name": "BRÆND LORTET AF",
+        "authors": ["SPYO"],
+        "image": "./static/images/braend-lortet-af.jpg"
+    },
+    {
+        "lat": 55.695297,
+        "lng": 12.533322,
+        "name": "CAPITALISM HAS NO DEMOCRACY",
+        "authors": ["SPYO"],
+        "image": "./static/images/capitalism-has-no-democracy.jpg"
+    },
+    {
+        "lat": 55.655769,
+        "lng": 12.538344,
+        "name": "DU ER BANKENS LILLE SKØDEHUND",
+        "authors": ["SPYO"],
+        "image": "./static/images/du-er-bankens-lille-skoedehund.jpg"
+    },
+    {
+        "lat": 55.698572,
+        "lng": 12.535864,
+        "name": "FATNESS WORLD",
+        "authors": ["SPYO"],
+        "image": "./static/images/fatness-world.jpg"
+    },
+    {
+        "lat": 55.657069,
+        "lng": 12.555044,
+        "name": "FORBRUGSFESTEN",
+        "authors": ["SPYO"],
+        "image": "./static/images/forbrugsfesten.jpg"
+    },
+    {
+        "lat": 55.657069,
+        "lng": 12.555044,
+        "name": "GOVERNMENT LIES!",
+        "authors": ["SPYO"],
+        "image": "./static/images/government-lies.jpg"
+    },
+    {
+        "lat": 55.655267,
+        "lng": 12.540433,
+        "name": "GREENWASHING UR ASS WITH FINANCIAL MORALISM",
+        "authors": ["SPYO"],
+        "image": "./static/images/greenwashing-ur-ass....jpg"
+    },
+    {
+        "lat": 55.702442,
+        "lng": 12.543458,
+        "name": "GRUNDSKYLD",
+        "authors": ["SPYO"],
+        "image": "./static/images/grundskyld.jpg"
+    },
+    {
+        "lat": 55.695747,
+        "lng": 12.532172,
+        "name": "HANNE REUMERT ILDSJÆL",
+        "authors": ["SPYO"],
+        "image": "./static/images/hanne-reumert-ildsjael.jpg"
+    },
+    {
+        "lat": 55.667300,
+        "lng": 12.539458,
+        "name": "HOVEDLØST OVERFORBRUG",
+        "authors": ["SPYO"],
+        "image": "./static/images/hovedloest-overforbrug.jpg"
+    },
+    {
+        "lat": 55.667436,
+        "lng": 12.539406,
+        "name": "KAPITALEN ER BEGEJSTRET",
+        "authors": ["SPYO"],
+        "image": "./static/images/kapitalen-er-begejstret.jpg"
+    },
+    {
+        "lat": 55.659050,
+        "lng": 12.543878,
+        "name": "KUNST OG KULTUR FUNGERE BEDST UNDER ORDNEDE FORHOLD, HILSEN STAT OG KOMMUNE",
+        "authors": ["SPYO"],
+        "image": "./static/images/kunst-og-kultur-fungere-bedst....jpg"
+    },
+    {
+        "lat": 55.702919,
+        "lng": 12.543353,
+        "name": "PALESTINE WILL BE FREE",
+        "authors": ["SPYO"],
+        "image": "./static/images/palestine-will-be-free.jpg"
+    },
+    {
+        "lat": 55.655633,
+        "lng": 12.539511,
+        "name": "NE TRAVEILLEZ JAMAIZ",
+        "authors": ["SPYO"],
+        "image": "./static/images/ne-traveillez-jamaiz.jpg"
+    },
+    {
+        "lat": 55.698986,
+        "lng": 12.536356,
+        "name": "NORMEN TRIVES",
+        "authors": ["SPYO"],
+        "image": "./static/images/normen-trives.jpg"
+    },
+    {
+        "lat": 55.655992,
+        "lng": 12.538383,
+        "name": "POLITICALLY ORGANISED DENIAL",
+        "authors": ["SPYO"],
+        "image": "./static/images/politically-organised-denial.jpg"
+    },
+    {
+        "lat": 55.670386,
+        "lng": 12.538222,
+        "name": "POLITIK = PØLS",
+        "authors": ["SPYO"],
+        "image": "./static/images/politik-er-lig-poels.jpg"
+    },
+    {
+        "lat": 55.697793,
+        "lng": 12.540985,
+        "name": "SELVFED-ISME",
+        "authors": ["SPYO"],
+        "image": "./static/images/selvfed-isme.jpg"
+    },
+    {
+        "lat": 55.655578,
+        "lng": 12.540731,
+        "name": "STRUKTUREL FATTIGDOM",
+        "authors": ["SPYO"],
+        "image": "./static/images/strukturel-fattigdom.jpg"
+    },
+    {
+        "lat": 55.660000,
+        "lng": 12.553628,
+        "name": "TRESPASSERS WILL BE ACKNOWLEDGED CHERISED APPLAUDED - IN THE END SALUTED",
+        "authors": ["SPYO"],
+        "image": "./static/images/trespassers-will-be-acknowledged....jpg"
+    },
+    {
+        "lat": 55.695683,
+        "lng": 12.531800,
+        "name": "TRY PRIVATIZING THIS",
+        "authors": ["SPYO"],
+        "image": "./static/images/try-privatizing-this.jpg"
+    }
+]
