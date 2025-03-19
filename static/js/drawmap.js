@@ -23,7 +23,7 @@ fetch('./static/js/data.json')
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${markerData.name}` }).addTo(map);
             var authorsList = markerData.authors.join(', ');
 
-            marker.bindPopup(`<img src="${markerData.image}" alt="markerData.name>" ${authorsList}<br> ${markerData.name}`, {maxWidth: 800, closeButton: false});
+            marker.bindPopup(`<img src="${markerData.image}" alt="${markerData.name}"> ${markerData.name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
             markers.push({marker: marker, name: markerData.name, index: index});
 
             var link = document.createElement('a');
