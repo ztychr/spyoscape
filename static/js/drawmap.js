@@ -28,13 +28,6 @@ fetch('./static/js/data.json')
 
             var link = document.createElement('a');
             var pin = document.createElement('img');
-            var offset;
-
-//            if (window.mobileCheck) {
-//                offset = [0, -window.innerHeight * 0.1];
-//            } else {
-//                offset = [0, -window.innerHeight * 0.33];
-//            }
 
             pin.classList.add('link-pin');
             pin.setAttribute('src', './static/icons/pin.svg');
