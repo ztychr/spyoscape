@@ -21,6 +21,15 @@
         "image": "./static/images/artistic-integrity-you-are....jpg"
     },
     {
+        "lat": 55.654025,
+        "lng": 12.535908,
+        "name": "BIRDSFMK SPYO NON SERVIAM",
+        "authors": [
+            "SPYO"
+        ],
+        "image": "./static/images/birdsfmk-spyo-non-serviam.jpg"
+    },
+    {
         "lat": 55.657492,
         "lng": 12.556389,
         "name": "BRÆND LORTET AF",
@@ -89,6 +98,15 @@
         "name": "HOVEDLØST OVERFORBRUG",
         "authors": ["SPYO"],
         "image": "./static/images/hovedloest-overforbrug.jpg"
+    },
+    {
+        "lat": 55.692183,
+        "lng": 12.556647,
+        "name": "JYDERESERVAT",
+        "authors": [
+            "SPYO"
+        ],
+        "image": "./static/images/jydereservat.jpg"
     },
     {
         "lat": 55.667409,
