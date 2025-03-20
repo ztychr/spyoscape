@@ -5,13 +5,13 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var myIcon = L.icon({
-    iconUrl: './static/icons/pin.svg',
+    iconUrl: 'static/icons/pin.svg',
     iconSize: [32, 32],
     iconAnchor: [16, 32],
     popupAnchor: [0, -32]
 });
 
-fetch('./static/js/data.json')
+fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
         const markersData = data;
