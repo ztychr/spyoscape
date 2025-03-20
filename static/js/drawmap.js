@@ -33,12 +33,13 @@ fetch('static/js/data.json')
 
             link.href = '#';
             link.textContent = `${markerData.name}`;
-            link.addEventListener('click', function() {
+            link.addEventListener('click', function(event) {
                 marker.openPopup();
                 map.flyTo([markerData.lat, markerData.lng], 16, {
                     animate: true,
                     duration: 1.0
                 });
+                event.preventDefault();
             });
 
             var listItem = document.createElement('li');
