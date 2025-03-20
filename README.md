@@ -2,6 +2,8 @@
 
 **SPYOSCAPE** is a (work in progress) hobby project that aims to localise and map the artwork of the Danish graffiti artist **SPYO**. The artwork included on this site contains only political statements, phrases or alike. This means that regular tags and throwups etc. are not mapped.
 
+![spyoscape.dk](spyoscape.png)
+
 **How do you know it actually is SPYO?**  
 I don't. I make an educated guess based on context, painting style and letter formatting.
 
