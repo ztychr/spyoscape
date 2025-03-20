@@ -17,7 +17,6 @@ fetch('static/js/data.json')
         const markersData = data;
         var markers = [];
         var ul = document.getElementById('links');
-        ul.classList.add("map-link");
 
         markersData.forEach(function(markerData, index) {
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${markerData.name}` }).addTo(map);
