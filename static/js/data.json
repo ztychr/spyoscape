@@ -84,15 +84,15 @@
         "image": "./static/images/hanne-reumert-ildsjael.jpg"
     },
     {
-        "lat": 55.667300,
-        "lng": 12.539458,
+        "lat": 55.667302,
+        "lng": 12.539762,
         "name": "HOVEDLØST OVERFORBRUG",
         "authors": ["SPYO"],
         "image": "./static/images/hovedloest-overforbrug.jpg"
     },
     {
-        "lat": 55.667436,
-        "lng": 12.539406,
+        "lat": 55.667409,
+        "lng": 12.539276,
         "name": "KAPITALEN ER BEGEJSTRET",
         "authors": ["SPYO"],
         "image": "./static/images/kapitalen-er-begejstret.jpg"
@@ -140,8 +140,8 @@
         "image": "./static/images/politik-er-lig-poels.jpg"
     },
     {
-        "lat": 55.697793,
-        "lng": 12.540985,
+        "lat": 55.697795,
+        "lng": 12.541347,
         "name": "SELVFED-ISME",
         "authors": ["SPYO"],
         "image": "./static/images/selvfed-isme.jpg"
