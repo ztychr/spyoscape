@@ -8,7 +8,7 @@ var myIcon = L.icon({
     iconUrl: './static/icons/pin.svg',
     iconSize: [32, 32],
     iconAnchor: [16, 32],
-    popupAnchor: [32, 16]
+    popupAnchor: [0, -32]
 });
 
 fetch('./static/js/data.json')
