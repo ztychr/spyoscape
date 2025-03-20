@@ -13,7 +13,7 @@ You are very welcome to create a pull request with images of artwork I have not 
 # Contribution
 To add your submission to the project, follow the following procedure.
 
-1. Add your image to static/images/. Please prioritise landscape oriented photos.
+1. Add your image to static/images/. The list is alphabetically sorted, so find the suitable place. Please prioritise landscape oriented photos.
    - The naming of the image should be the quote in lower case with dashes instead of spaces. If the quote is long, it can be truncated with three dots. E.g. `very-long-quote-must....jpg`
    - Do you best to exclude the faces of bypassers when taking the photo.
 3. Enter the data for the new image in `static/js/data.json`.
