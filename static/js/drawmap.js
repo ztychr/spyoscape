@@ -5,19 +5,18 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var myIcon = L.icon({
-    iconUrl: './static/icons/pin.svg',
+    iconUrl: 'static/icons/pin.svg',
     iconSize: [32, 32],
     iconAnchor: [16, 32],
     popupAnchor: [0, -32]
 });
 
-fetch('./static/js/data.json')
+fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
         const markersData = data;
         var markers = [];
         var ul = document.getElementById('links');
-        ul.classList.add("map-link");
 
         markersData.forEach(function(markerData, index) {
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${markerData.name}` }).addTo(map);
@@ -28,25 +27,19 @@ fetch('./static/js/data.json')
 
             var link = document.createElement('a');
             var pin = document.createElement('img');
-            var offset;
-
-//            if (window.mobileCheck) {
-//                offset = [0, -window.innerHeight * 0.1];
-//            } else {
-//                offset = [0, -window.innerHeight * 0.33];
-//            }
 
             pin.classList.add('link-pin');
             pin.setAttribute('src', './static/icons/pin.svg');
 
             link.href = '#';
             link.textContent = `${markerData.name}`;
-            link.addEventListener('click', function() {
+            link.addEventListener('click', function(event) {
                 marker.openPopup();
                 map.flyTo([markerData.lat, markerData.lng], 16, {
                     animate: true,
                     duration: 1.0
                 });
+                event.preventDefault();
             });
 
             var listItem = document.createElement('li');
