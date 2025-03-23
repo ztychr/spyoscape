@@ -2,7 +2,7 @@
     font-family: 'Ubuntu';
     font-style: normal;
     font-weight: 400;
-    src: local('Ubuntu Regular'), url('../fonts/Ubuntu-Regular.woff2') format('woff2');
+    src: local('Ubuntu'), url('../fonts/Ubuntu-Regular.woff2') format('woff2');
 }
 
 html { height: 100%; }
