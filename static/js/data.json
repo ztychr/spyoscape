@@ -16,7 +16,7 @@
     {
         "lat": 55.655789,
         "lng": 12.540328,
-        "name": "ARTISTIC INTEGRITY - YOU ARE ABOUT TO BECOME PRIVATIZED AS STATE GOVERNMENT PROPERTY",
+        "name": "ARTISTIC INTEGRITY - YOU ARE ABOUT TO BECOME PRIVATIZED AS STATE GOVERMENT PROPERTY (IM DYSLEXIC)",
         "authors": ["SPYO"],
         "image": "static/images/artistic-integrity-you-are....jpg"
     },
@@ -42,6 +42,27 @@
         "image": "static/images/capitalism-has-no-democracy.jpg"
     },
     {
+        "lat": 55.668254,
+        "lng": 12.541757,
+        "name": "DET SKA CHEFEN IK BE OM!",
+        "authors": ["SPYO"],
+        "image": "static/images/det-ska-chefen-ik-be-om.jpg"
+    },
+    {
+        "lat": 55.668868,
+        "lng": 12.543589,
+        "name": "DIAGNOSE",
+        "authors": ["SPYO"],
+        "image": "static/images/diagnose.jpg"
+    },
+    {
+        "lat": 55.668825,
+        "lng": 12.543654,
+        "name": "DINE PROBLEMER HAR INGEN PROBLEMER",
+        "authors": ["SPYO"],
+        "image": "static/images/dine-problemer-har-ingen-problemer.jpg"
+    },
+    {
         "lat": 55.655769,
         "lng": 12.538344,
         "name": "DU ER BANKENS LILLE SKØDEHUND",
@@ -65,9 +86,9 @@
     {
         "lat": 55.657069,
         "lng": 12.555044,
-        "name": "GOVERNMENT LIES!",
+        "name": "GOVERMENT LIES!",
         "authors": ["SPYO"],
-        "image": "static/images/government-lies.jpg"
+        "image": "static/images/goverment-lies.jpg"
     },
     {
         "lat": 55.655267,
@@ -91,11 +112,25 @@
         "image": "static/images/hanne-reumert-ildsjael.jpg"
     },
     {
+        "lat": 55.652508,
+        "lng": 12.516631,
+        "name": "HISTORIELØST SAMFUND",
+        "authors": ["SPYO"],
+        "image": "./static/images/historieloest-samfund.jpg"
+    },
+    {
         "lat": 55.667302,
         "lng": 12.539762,
         "name": "HOVEDLØST OVERFORBRUG",
         "authors": ["SPYO"],
         "image": "static/images/hovedloest-overforbrug.jpg"
+    },
+    {
+        "lat": 55.666580,
+        "lng": 12.550174,
+        "name": "IM GAY",
+        "authors": ["SPYO"],
+        "image": "static/images/im-gay.jpg"
     },
     {
         "lat": 55.692183,
@@ -119,11 +154,18 @@
         "image": "static/images/kunst-og-kultur-fungere-bedst....jpg"
     },
     {
-        "lat": 55.702919,
-        "lng": 12.543353,
-        "name": "PALESTINE WILL BE FREE",
+        "lat": 55.669817,
+        "lng": 12.551470,
+        "name": "KØB MER!",
         "authors": ["SPYO"],
-        "image": "static/images/palestine-will-be-free.jpg"
+        "image": "static/images/koeb-mer.jpg"
+    },
+    {
+        "lat": 55.654961,
+        "lng": 12.520164,
+        "name": "MENNESKET FØR PROFIT",
+        "authors": ["SPYO"],
+        "image": "./static/images/mennesket-foer-profit.jpg"
     },
     {
         "lat": 55.655633,
@@ -138,6 +180,13 @@
         "name": "NORMEN TRIVES",
         "authors": ["SPYO"],
         "image": "static/images/normen-trives.jpg"
+    },
+    {
+        "lat": 55.702919,
+        "lng": 12.543353,
+        "name": "PALESTINE WILL BE FREE",
+        "authors": ["SPYO"],
+        "image": "static/images/palestine-will-be-free.jpg"
     },
     {
         "lat": 55.655992,
@@ -166,6 +215,20 @@
         "name": "STRUKTUREL FATTIGDOM",
         "authors": ["SPYO"],
         "image": "static/images/strukturel-fattigdom.jpg"
+    },
+    {
+        "lat": 55.668428,
+        "lng": 12.542317,
+        "name": "TAK MAGTHAVERNE.. FOR AT HOLDE DIG BESKÆFTIGET",
+        "authors": ["SPYO"],
+        "image": "./static/images/tak-magthaverne..-for-at-holde-dig-beskaeftiget.jpg"
+    },
+    {
+        "lat": 55.652681,
+        "lng": 12.515906,
+        "name": "THIS MAY NOT REFLECT REAL LIVE SITUATIONS",
+        "authors": ["SPYO"],
+        "image": "./static/images/this-may-not-reflect-real-live-situations.jpg"
     },
     {
         "lat": 55.660000,
