@@ -113,29 +113,6 @@ h1 {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-h1.article-header {
-    text-align: center;
-    font-size: 25px;
-    text-align: center;
-    text-shadow: 2px 2px 2px #202020;
-    font-family: 'Josefin Sans', sans-serif;
-}
-
-h2 {
-    font-size: 20px;
-    margin: 0px;
-}
-
-h3 {
-    margin: 0px;
-}
-
-hr {
-    color: #30383D;
-    border-color: #30383D;
-    width: 95%;
-}
-
 a, a:visited {
     text-decoration: underline;
     font-weight: bold;
