@@ -44,8 +44,8 @@ header img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 5vh;
-    max-width: 40vw;
+    height: 10vh;
+    max-width: 80vw;
 }
 
 .grid {
