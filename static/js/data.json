@@ -70,6 +70,13 @@
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
     },
     {
+        "lat": 55.667844,
+        "lng": 12.553230, 
+        "name": "EVERYBODY WANTS TO BE AN ARTIST",
+        "authors": ["SPYO"],
+        "image": "static/images/everybody-wants-to-be-an-artist.jpg"
+    }, 
+    {
         "lat": 55.698572,
         "lng": 12.535864,
         "name": "FATNESS WORLD",
