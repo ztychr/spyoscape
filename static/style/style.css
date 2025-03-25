@@ -5,7 +5,9 @@
     src: local('Ubuntu'), url('../fonts/Ubuntu-Regular.woff2') format('woff2');
 }
 
-html { height: 100%; }
+html {
+    height: 100%;
+}
 
 body {
     margin: 0;
@@ -54,7 +56,6 @@ header img {
 
 .grid header {
     padding: 20px;
-
 }
 
 .grid > * {
@@ -133,7 +134,7 @@ a:hover {
     }
 
     .grid > * {
-        margin: 0px;
+        margin: 0;
     }
 
     .grid header {
@@ -142,8 +143,8 @@ a:hover {
     }
 
     .img {
-        width:100%;
-        height:100%;
+        width: 100%;
+        height: 100%;
     }
 
     #map {
