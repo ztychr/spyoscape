@@ -44,7 +44,7 @@ fetch('static/js/data.json')
                     animate: true,
                     duration: 1.0
                 });
-                event.preventDefault();
+                //event.preventDefault();
                 setTimeout(() => {
                     map.panBy([panX, -panY], { animate: true, duration: 1.0 });
                 }, 1500);
