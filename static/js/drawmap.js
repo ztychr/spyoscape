@@ -17,6 +17,11 @@ fetch('static/js/data.json')
         const markersData = data;
         var markers = [];
         var ul = document.getElementById('links');
+        var mapSize = map.getSize();
+        var centerX = mapSize.x / 2;
+        var centerY = mapSize.y * 0.9;
+        var panX = centerX - mapSize.x / 2;
+        var panY = centerY - mapSize.y / 2;
 
         markersData.forEach(function(markerData, index) {
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${markerData.name}` }).addTo(map);
@@ -40,6 +45,10 @@ fetch('static/js/data.json')
                     duration: 1.0
                 });
                 event.preventDefault();
+                setTimeout(() => {
+                    map.panBy([panX, -panY], { animate: true, duration: 1.0 });
+                }, 1500);
+
             });
 
             var listItem = document.createElement('li');
