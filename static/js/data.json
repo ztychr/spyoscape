@@ -42,6 +42,13 @@
         "image": "static/images/capitalism-has-no-democracy.jpg"
     },
     {
+        "lat": 55.690506,
+        "lng": 12.55555,
+        "name": "COMMUNICATING THRU WALLS...",
+        "authors": ["SPYO"],
+        "image": "./static/images/communicating-thru-walls....jpg"
+    },
+    {
         "lat": 55.668254,
         "lng": 12.541757,
         "name": "DET SKA CHEFEN IK BE OM!",
@@ -208,6 +215,13 @@
         "name": "POLITIK = PØLS",
         "authors": ["SPYO"],
         "image": "static/images/politik-er-lig-poels.jpg"
+    },
+    {
+        "lat": 55.690506,
+        "lng": 12.55555,
+        "name": "PSEUDO - DIT LIV ER RØV SKOD",
+        "authors": ["SPYO"],
+        "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
     },
     {
         "lat": 55.697795,
