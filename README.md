@@ -26,5 +26,5 @@ To add your submission to the project, follow the following procedure.
      - The `author` key is a list of authors. It must at least contain **SPYO**.
    - **image**
       - The `image` key is a path to the image. Should be ./static/images/<your-image>.jpg
-5. Run `make image` to resize the image to a width of 1920 pixels and remove the exif data from the image. `make image` requires the imagemagick and libimage-exiftool-perl (exiftool) packages.
+5. Run `make image IMG=<path to image>` to resize the image to a width of 1920 pixels and remove the exif data. `make image` requires the imagemagick and libimage-exiftool-perl (exiftool) packages.
 6. Submit a pull request!
