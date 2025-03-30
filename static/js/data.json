@@ -224,6 +224,13 @@
         "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
     },
     {
+        "lat": 55.660589,
+        "lng": 12.514628,
+        "name": "SELVCENTER'D",
+        "authors": ["SPYO"],
+        "image": "./static/images/selvcenterd.jpg>"
+    },
+    {
         "lat": 55.697795,
         "lng": 12.541347,
         "name": "SELVFED-ISME",
