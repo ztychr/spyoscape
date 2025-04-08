@@ -4,6 +4,13 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+ // Caclulate pixel offset to allow space enough for the image when opening marker, given the map pixel size
+const mapSize = map.getSize();
+const centerX = mapSize.x / 2;
+const centerY = mapSize.y * 0.9;
+const xOffset = centerX - mapSize.x / 2;
+const yOffset = centerY - mapSize.y / 2;
+
 var myIcon = L.icon({
     iconUrl: 'static/icons/pin.svg',
     iconSize: [32, 32],
@@ -11,20 +18,31 @@ var myIcon = L.icon({
     popupAnchor: [0, -32]
 });
 
+// Function to calculate offset coordinates
+function offsetLatLng(map, latlng, xOffset, yOffset) {
+    // Convert the latlng to a point
+    let point = map.latLngToContainerPoint(latlng);
+
+    // Apply the offset
+    point.x -= xOffset;
+    point.y -= yOffset;
+
+    // Convert the point back to latlng
+    return map.containerPointToLatLng(point);
+}
+
 fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
 
-        function focus_poi(marker) {
+        function focus_marker(marker) {
             marker.openPopup();
-            map.flyTo([marker._latlng.lat, marker._latlng.lng], 16, {
+            // Calculate offset coordinate to allow enough space for image
+            let offsetLatLngTarget = offsetLatLng(map, marker._latlng, xOffset, yOffset);
+            map.flyTo(offsetLatLngTarget, 16, {
                 animate: true,
                 duration: 1.0
             });
-            //event.preventDefault();
-            setTimeout(() => {
-                map.panBy([panX, -panY], { animate: true, duration: 1.0 });
-            }, 1500);
         }
 
         function click_marker(marker) {
@@ -37,11 +55,6 @@ fetch('static/js/data.json')
         const markersData = data;
         var markers = [];
         var ul = document.getElementById('links');
-        var mapSize = map.getSize();
-        var centerX = mapSize.x / 2;
-        var centerY = mapSize.y * 0.9;
-        var panX = centerX - mapSize.x / 2;
-        var panY = centerY - mapSize.y / 2;
 
         Object.entries(markersData).forEach(([name, markerData], index) => {
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${name}` }).addTo(map).on('click', click_marker);;
@@ -58,7 +71,7 @@ fetch('static/js/data.json')
 
             link.textContent = `${name}`;
             link.addEventListener('click', function(event) {
-                focus_poi(marker, markerData);
+                focus_marker(marker, markerData);
                 // Append open image name to url to allow user to link to a specific image
                 history.pushState({}, null, `#${name}`);
             });
@@ -70,7 +83,7 @@ fetch('static/js/data.json')
 
         // Load image name from url (if relevant) and open it
         if (window.location.hash){
-            focus_poi(markers[decodeURIComponent(window.location.hash.substring(1))].marker);
+            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker);
         }
     });
 
