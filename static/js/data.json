@@ -210,6 +210,13 @@
         "image": "static/images/normen-trives.jpg"
     },
     {
+        "lat": 55.678383,
+        "lng": 12.563429,
+        "name": "OVERRENDT AF KULTUR DØDE BONDERØVE",
+        "authors": ["SMOAT", "SPYO"],
+        "image": "static/images/overrendt-af-kultur-døde-bonderøve.webp"
+    },
+    {
         "lat": 55.702919,
         "lng": 12.543353,
         "name": "PALESTINE WILL BE FREE",
