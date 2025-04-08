@@ -224,6 +224,13 @@
         "image": "static/images/palestine-will-be-free.jpg"
     },
     {
+        "lat": 55.6681855,
+        "lng": 12.6244779,
+        "name": "PEOPLE iN POWER BNEFiTS FROM YOUR iGNORANCE",
+        "authors": ["SPYO", "WHO"],
+        "image": "static/images/people-in-power-benefits-from-your-ignorance.webp"
+    },
+    {
         "lat": 55.655992,
         "lng": 12.538383,
         "name": "POLITICALLY ORGANISED DENIAL",
