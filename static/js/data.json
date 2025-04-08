@@ -7,6 +7,13 @@
         "image": "static/images/all-you-need-is-less-of-everything.jpg"
     },
     {
+        "lat": 55.6690447,
+        "lng": 12.6227563,
+        "name": "ANALOGBARN UDEN MiT iD",
+        "authors": ["TYK", "USLING", "HACK", "SPYO" ],
+        "image": "static/images/analog-barn-uden-mit-id.webp"
+    },
+    {
         "lat": 55.659767,
         "lng": 12.552625,
         "name": "APARNAGE TIL ALLE - SLUK FOR DE RIGES PRIVILEGIER",
