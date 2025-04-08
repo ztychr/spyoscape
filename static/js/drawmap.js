@@ -1,4 +1,4 @@
-const map = L.map('map').setView([55.67, 12.56], 12);
+const map = L.map('map').setView([55.67, 12.56], 12, animate=false);
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -10,6 +10,8 @@ const centerX = mapSize.x / 2;
 const centerY = mapSize.y * 0.9;
 const xOffset = centerX - mapSize.x / 2;
 const yOffset = centerY - mapSize.y / 2;
+
+var markers = {};
 
 var myIcon = L.icon({
     iconUrl: 'static/icons/pin.svg',
@@ -31,19 +33,20 @@ function offsetLatLng(map, latlng, xOffset, yOffset) {
     return map.containerPointToLatLng(point);
 }
 
+
+function focus_marker(marker, animate=true) {
+    marker.openPopup();
+    // Calculate offset coordinate to allow enough space for image
+    let offsetLatLngTarget = offsetLatLng(map, marker._latlng, xOffset, yOffset);
+    map.flyTo(offsetLatLngTarget, 16, {
+        animate: animate,
+        duration: 1.0
+    });
+}
+
 fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
-
-        function focus_marker(marker) {
-            marker.openPopup();
-            // Calculate offset coordinate to allow enough space for image
-            let offsetLatLngTarget = offsetLatLng(map, marker._latlng, xOffset, yOffset);
-            map.flyTo(offsetLatLngTarget, 16, {
-                animate: true,
-                duration: 1.0
-            });
-        }
 
         function click_marker(marker) {
              // Callback, when clicking a marker
@@ -53,7 +56,6 @@ fetch('static/js/data.json')
 
 
         const markersData = data;
-        var markers = [];
         var ul = document.getElementById('links');
 
         Object.entries(markersData).forEach(([name, markerData], index) => {
@@ -83,7 +85,8 @@ fetch('static/js/data.json')
 
         // Load image name from url (if relevant) and open it
         if (window.location.hash){
-            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker);
+            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker, animate=false);
+            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker, animate=true);
         }
     });
 
