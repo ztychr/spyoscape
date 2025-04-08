@@ -313,5 +313,12 @@
         "name": "TRY PRIVATIZING THIS",
         "authors": ["SPYO"],
         "image": "static/images/try-privatizing-this.jpg"
+    },
+    {
+        "lat": 55.721368,
+        "lng": 12.601080,
+        "name": "WATCH UR LIFE VANISH FROM CAPiTALiSM !",
+        "authors": ["COOLER", "SPYO", "JEEP"],
+        "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
     }
 ]
