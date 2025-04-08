@@ -1,324 +1,278 @@
-[
-    {
+{
+    "ALL YOU NEED IS LESS OF EVERYTHING": {
         "lat": 55.660186,
         "lng": 12.543522,
-        "name": "ALL YOU NEED IS LESS OF EVERYTHING",
         "authors": ["SPYO"],
         "image": "static/images/all-you-need-is-less-of-everything.jpg"
     },
-    {
+    "ANALOGBARN UDEN MiT iD": {
         "lat": 55.6690447,
         "lng": 12.6227563,
-        "name": "ANALOGBARN UDEN MiT iD",
         "authors": ["TYK", "USLING", "HACK", "SPYO" ],
         "image": "static/images/analog-barn-uden-mit-id.webp"
     },
-    {
+    "APARNAGE TIL ALLE - SLUK FOR DE RIGES PRIVILEGIER": {
         "lat": 55.659767,
         "lng": 12.552625,
-        "name": "APARNAGE TIL ALLE - SLUK FOR DE RIGES PRIVILEGIER",
         "authors": ["SPYO"],
         "image": "static/images/aparnage-til-alle....jpg"
     },
-    {
+    "ARTISTIC INTEGRITY - YOU ARE ABOUT TO BECOME PRIVATIZED AS STATE GOVERMENT PROPERTY (IM DYSLEXIC)": {
         "lat": 55.655789,
         "lng": 12.540328,
-        "name": "ARTISTIC INTEGRITY - YOU ARE ABOUT TO BECOME PRIVATIZED AS STATE GOVERMENT PROPERTY (IM DYSLEXIC)",
         "authors": ["SPYO"],
         "image": "static/images/artistic-integrity-you-are....jpg"
     },
-    {
+    "BIRDSFMK SPYO NON SERVIAM": {
         "lat": 55.654025,
         "lng": 12.535908,
-        "name": "BIRDSFMK SPYO NON SERVIAM",
         "authors": ["SPYO"],
         "image": "static/images/birdsfmk-spyo-non-serviam.jpg"
     },
-    {
+    "BRÆND LORTET AF": {
         "lat": 55.657492,
         "lng": 12.556389,
-        "name": "BRÆND LORTET AF",
         "authors": ["SPYO"],
         "image": "static/images/braend-lortet-af.jpg"
     },
-    {
+    "CAPITALISM HAS NO DEMOCRACY": {
         "lat": 55.695297,
         "lng": 12.533322,
-        "name": "CAPITALISM HAS NO DEMOCRACY",
         "authors": ["SPYO"],
         "image": "static/images/capitalism-has-no-democracy.jpg"
     },
-    {
+    "COMMUNICATING THRU WALLS...": {
         "lat": 55.690506,
         "lng": 12.55555,
-        "name": "COMMUNICATING THRU WALLS...",
         "authors": ["SPYO"],
         "image": "./static/images/communicating-thru-walls....jpg"
     },
-    {
+    "DET SKA CHEFEN IK BE OM!": {
         "lat": 55.668254,
         "lng": 12.541757,
-        "name": "DET SKA CHEFEN IK BE OM!",
         "authors": ["SPYO"],
         "image": "static/images/det-ska-chefen-ik-be-om.jpg"
     },
-    {
+    "DIAGNOSE": {
         "lat": 55.668868,
         "lng": 12.543589,
-        "name": "DIAGNOSE",
         "authors": ["SPYO"],
         "image": "static/images/diagnose.jpg"
     },
-    {
+    "DINE PROBLEMER HAR INGEN PROBLEMER": {
         "lat": 55.668825,
         "lng": 12.543654,
-        "name": "DINE PROBLEMER HAR INGEN PROBLEMER",
         "authors": ["SPYO"],
         "image": "static/images/dine-problemer-har-ingen-problemer.jpg"
     },
-    {
+    "DU ER BANKENS LILLE SKØDEHUND": {
         "lat": 55.655769,
         "lng": 12.538344,
-        "name": "DU ER BANKENS LILLE SKØDEHUND",
         "authors": ["SPYO"],
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
     },
-    {
+    "EVERYBODY WANTS TO BE AN ARTIST": {
         "lat": 55.667844,
         "lng": 12.553230, 
-        "name": "EVERYBODY WANTS TO BE AN ARTIST",
         "authors": ["SPYO"],
         "image": "static/images/everybody-wants-to-be-an-artist.jpg"
     }, 
-    {
+    "FATNESS WORLD": {
         "lat": 55.698572,
         "lng": 12.535864,
-        "name": "FATNESS WORLD",
         "authors": ["SPYO"],
         "image": "static/images/fatness-world.jpg"
     },
-    {
+    "FORBRUGSFESTEN": {
         "lat": 55.657069,
         "lng": 12.555044,
-        "name": "FORBRUGSFESTEN",
         "authors": ["SPYO"],
         "image": "static/images/forbrugsfesten.jpg"
     },
-    {
+    "GOVERMENT LIES!": {
         "lat": 55.657069,
         "lng": 12.555044,
-        "name": "GOVERMENT LIES!",
         "authors": ["SPYO"],
         "image": "static/images/goverment-lies.jpg"
     },
-    {
+    "GREENWASHING UR ASS WITH FINANCIAL MORALISM": {
         "lat": 55.655267,
         "lng": 12.540433,
-        "name": "GREENWASHING UR ASS WITH FINANCIAL MORALISM",
         "authors": ["SPYO"],
         "image": "static/images/greenwashing-ur-ass....jpg"
     },
-    {
+    "GRUNDSKYLD": {
         "lat": 55.702442,
         "lng": 12.543458,
-        "name": "GRUNDSKYLD",
         "authors": ["SPYO"],
         "image": "static/images/grundskyld.jpg"
     },
-    {
+    "HANNE REUMERT ILDSJÆL": {
         "lat": 55.695747,
         "lng": 12.532172,
-        "name": "HANNE REUMERT ILDSJÆL",
         "authors": ["SPYO"],
         "image": "static/images/hanne-reumert-ildsjael.jpg"
     },
-    {
+    "HISTORIELØST SAMFUND": {
         "lat": 55.652508,
         "lng": 12.516631,
-        "name": "HISTORIELØST SAMFUND",
         "authors": ["SPYO"],
         "image": "./static/images/historieloest-samfund.jpg"
     },
-    {
+    "HOVEDLØST OVERFORBRUG": {
         "lat": 55.667302,
         "lng": 12.539762,
-        "name": "HOVEDLØST OVERFORBRUG",
         "authors": ["SPYO"],
         "image": "static/images/hovedloest-overforbrug.jpg"
     },
-    {
+    "IM GAY": {
         "lat": 55.666580,
         "lng": 12.550174,
-        "name": "IM GAY",
         "authors": ["SPYO"],
         "image": "static/images/im-gay.jpg"
     },
-    {
+    "iM LOST FOR WORDS": {
         "lat": 55.630070,
         "lng": 12.486367,
-        "name": "iM LOST FOR WORDS",
         "authors": ["SPYO"],
         "image": "static/images/im-lost-for-words.webp"
     },
-    {
+    "JYDERESERVAT": {
         "lat": 55.692183,
         "lng": 12.556647,
-        "name": "JYDERESERVAT",
         "authors": ["SPYO"],
         "image": "static/images/jydereservat.jpg"
     },
-    {
+    "KAPITALEN ER BEGEJSTRET": {
         "lat": 55.667409,
         "lng": 12.539276,
-        "name": "KAPITALEN ER BEGEJSTRET",
         "authors": ["SPYO"],
         "image": "static/images/kapitalen-er-begejstret.jpg"
     },
-    {
+    "KUNST OG KULTUR FUNGERE BEDST UNDER ORDNEDE FORHOLD, HILSEN STAT OG KOMMUNE": {
         "lat": 55.659050,
         "lng": 12.543878,
-        "name": "KUNST OG KULTUR FUNGERE BEDST UNDER ORDNEDE FORHOLD, HILSEN STAT OG KOMMUNE",
         "authors": ["SPYO"],
         "image": "static/images/kunst-og-kultur-fungere-bedst....jpg"
     },
-    {
+    "KØB MER!": {
         "lat": 55.669817,
         "lng": 12.551470,
-        "name": "KØB MER!",
         "authors": ["SPYO"],
         "image": "static/images/koeb-mer.jpg"
     },
-    {
+    "MENNESKET FØR PROFIT": {
         "lat": 55.654961,
         "lng": 12.520164,
-        "name": "MENNESKET FØR PROFIT",
         "authors": ["SPYO"],
         "image": "./static/images/mennesket-foer-profit.jpg"
     },
-    {
+    "NE TRAVAILLEZ JAMAIS": {
         "lat": 55.655633,
         "lng": 12.539511,
-        "name": "NE TRAVAILLEZ JAMAIS",
         "authors": ["SPYO"],
         "image": "static/images/ne-traveillez-jamaiz.jpg"
     },
-    {
+    "NORMEN TRIVES": {
         "lat": 55.698986,
         "lng": 12.536356,
-        "name": "NORMEN TRIVES",
         "authors": ["SPYO"],
         "image": "static/images/normen-trives.jpg"
     },
-    {
+    "OVERRENDT AF KULTUR DØDE BONDERØVE": {
         "lat": 55.678383,
         "lng": 12.563429,
-        "name": "OVERRENDT AF KULTUR DØDE BONDERØVE",
         "authors": ["SMOAT", "SPYO"],
         "image": "static/images/overrendt-af-kultur-døde-bonderøve.webp"
     },
-    {
+    "PALESTINE WILL BE FREE": {
         "lat": 55.702919,
         "lng": 12.543353,
-        "name": "PALESTINE WILL BE FREE",
         "authors": ["SPYO"],
         "image": "static/images/palestine-will-be-free.jpg"
     },
-    {
+    "PEOPLE iN POWER BNEFiTS FROM YOUR iGNORANCE": {
         "lat": 55.6681855,
         "lng": 12.6244779,
-        "name": "PEOPLE iN POWER BNEFiTS FROM YOUR iGNORANCE",
         "authors": ["SPYO", "WHO"],
         "image": "static/images/people-in-power-benefits-from-your-ignorance.webp"
     },
-    {
+    "POLITICALLY ORGANISED DENIAL": {
         "lat": 55.655992,
         "lng": 12.538383,
-        "name": "POLITICALLY ORGANISED DENIAL",
         "authors": ["SPYO"],
         "image": "static/images/politically-organised-denial.jpg"
     },
-    {
+    "POLITIK = PØLS": {
         "lat": 55.670386,
         "lng": 12.538222,
-        "name": "POLITIK = PØLS",
         "authors": ["SPYO"],
         "image": "static/images/politik-er-lig-poels.jpg"
     },
-    {
+    "PSEUDO - DIT LIV ER RØV SKOD": {
         "lat": 55.690506,
         "lng": 12.55555,
-        "name": "PSEUDO - DIT LIV ER RØV SKOD",
         "authors": ["SPYO"],
         "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
     },
-    {
+    "SELVCENTER'D": {
         "lat": 55.660589,
         "lng": 12.514628,
-        "name": "SELVCENTER'D",
         "authors": ["SPYO"],
         "image": "./static/images/selvcenterd.jpg"
     },
-    {
+    "SELVFED-ISME": {
         "lat": 55.697795,
         "lng": 12.541347,
-        "name": "SELVFED-ISME",
         "authors": ["SPYO"],
         "image": "static/images/selvfed-isme.jpg"
     },
-    {
+    "STRUKTUREL FATTIGDOM": {
         "lat": 55.655578,
         "lng": 12.540731,
-        "name": "STRUKTUREL FATTIGDOM",
         "authors": ["SPYO"],
         "image": "static/images/strukturel-fattigdom.jpg"
     },
-    {
+    "TAK MAGTHAVERNE.. FOR AT HOLDE DIG BESKÆFTIGET": {
         "lat": 55.668428,
         "lng": 12.542317,
-        "name": "TAK MAGTHAVERNE.. FOR AT HOLDE DIG BESKÆFTIGET",
         "authors": ["SPYO"],
         "image": "./static/images/tak-magthaverne..-for-at-holde-dig-beskaeftiget.jpg"
     },
-    {
+    "THE CORE OF CAPiTALiSM iS GREED": {
         "lat": 55.630220,
         "lng": 12.486847,
-        "name": "THE CORE OF CAPiTALiSM iS GREED",
         "authors": ["SPYO"],
         "image": "static/images/the-core-of-capitalism-is-greed.webp"
     },
-    {
+    "THIS MAY NOT REFLECT REAL LIVE SITUATIONS": {
         "lat": 55.652681,
         "lng": 12.515906,
-        "name": "THIS MAY NOT REFLECT REAL LIVE SITUATIONS",
         "authors": ["SPYO"],
         "image": "./static/images/this-may-not-reflect-real-live-situations.jpg"
     },
-    {
+    "THIS MAKES ME FEEL ALiVE WHiLE U DEAD iNSiDE DECOLONZIE!": {
         "lat": 55.6683851,
         "lng": 12.6246536,
-        "name": "THIS MAKES ME FEEL ALiVE WHiLE U DEAD iNSiDE DECOLONZIE!",
         "authors": ["SPYO"],
         "image": "static/images/this-makes-me-feel-alive-while-u-dead-inside-decolonize!.webp"
     },
-    {
+    "TRESPASSERS WILL BE ACKNOWLEDGED CHERISED APPLAUDED - IN THE END SALUTED": {
         "lat": 55.660000,
         "lng": 12.553628,
-        "name": "TRESPASSERS WILL BE ACKNOWLEDGED CHERISED APPLAUDED - IN THE END SALUTED",
         "authors": ["SPYO"],
         "image": "static/images/trespassers-will-be-acknowledged....jpg"
     },
-    {
+    "TRY PRIVATIZING THIS": {
         "lat": 55.695683,
         "lng": 12.531800,
-        "name": "TRY PRIVATIZING THIS",
         "authors": ["SPYO"],
         "image": "static/images/try-privatizing-this.jpg"
     },
-    {
+    "WATCH UR LIFE VANISH FROM CAPiTALiSM !": {
         "lat": 55.721368,
         "lng": 12.601080,
-        "name": "WATCH UR LIFE VANISH FROM CAPiTALiSM !",
         "authors": ["COOLER", "SPYO", "JEEP"],
         "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
     }
-]
+}

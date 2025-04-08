@@ -14,6 +14,26 @@ var myIcon = L.icon({
 fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
+
+        function focus_poi(marker) {
+            marker.openPopup();
+            map.flyTo([marker._latlng.lat, marker._latlng.lng], 16, {
+                animate: true,
+                duration: 1.0
+            });
+            //event.preventDefault();
+            setTimeout(() => {
+                map.panBy([panX, -panY], { animate: true, duration: 1.0 });
+            }, 1500);
+        }
+
+        function click_marker(marker) {
+             // Callback, when clicking a marker
+             // Save work name in URL to allow linking to this work
+             history.pushState({}, null, `#${marker.target.options.title}`);
+        }
+
+
         const markersData = data;
         var markers = [];
         var ul = document.getElementById('links');
@@ -23,12 +43,12 @@ fetch('static/js/data.json')
         var panX = centerX - mapSize.x / 2;
         var panY = centerY - mapSize.y / 2;
 
-        markersData.forEach(function(markerData, index) {
-            var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${markerData.name}` }).addTo(map);
+        Object.entries(markersData).forEach(([name, markerData], index) => {
+            var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${name}` }).addTo(map).on('click', click_marker);;
             var authorsList = markerData.authors.join(', ');
 
-            marker.bindPopup(`<img src="${markerData.image}" alt="${markerData.name}"> ${markerData.name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
-            markers.push({marker: marker, name: markerData.name, index: index});
+            marker.bindPopup(`<img src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
+            markers[name] = {marker: marker, index: index};
 
             var link = document.createElement('a');
             var pin = document.createElement('img');
@@ -36,23 +56,21 @@ fetch('static/js/data.json')
             pin.classList.add('link-pin');
             pin.setAttribute('src', './static/icons/pin.svg');
 
-            link.href = '#';
-            link.textContent = `${markerData.name}`;
+            link.textContent = `${name}`;
             link.addEventListener('click', function(event) {
-                marker.openPopup();
-                map.flyTo([markerData.lat, markerData.lng], 16, {
-                    animate: true,
-                    duration: 1.0
-                });
-                //event.preventDefault();
-                setTimeout(() => {
-                    map.panBy([panX, -panY], { animate: true, duration: 1.0 });
-                }, 1500);
-
+                focus_poi(marker, markerData);
+                // Append open image name to url to allow user to link to a specific image
+                history.pushState({}, null, `#${name}`);
             });
 
             var listItem = document.createElement('li');
             listItem.appendChild(link);
             ul.appendChild(listItem);
         });
+
+        // Load image name from url (if relevant) and open it
+        if (window.location.hash){
+            focus_poi(markers[decodeURIComponent(window.location.hash.substring(1))].marker);
+        }
     });
+
