@@ -280,6 +280,13 @@
         "image": "./static/images/tak-magthaverne..-for-at-holde-dig-beskaeftiget.jpg"
     },
     {
+        "lat": 55.630220,
+        "lng": 12.486847,
+        "name": "THE CORE OF CAPiTALiSM iS GREED",
+        "authors": ["SPYO"],
+        "image": "static/images/the-core-of-capitalism-is-greed.webp"
+    },
+    {
         "lat": 55.652681,
         "lng": 12.515906,
         "name": "THIS MAY NOT REFLECT REAL LIVE SITUATIONS",
