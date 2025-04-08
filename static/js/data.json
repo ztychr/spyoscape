@@ -154,6 +154,13 @@
         "image": "static/images/im-gay.jpg"
     },
     {
+        "lat": 55.630070,
+        "lng": 12.486367,
+        "name": "iM LOST FOR WORDS",
+        "authors": ["SPYO"],
+        "image": "static/images/im-lost-for-words.webp"
+    },
+    {
         "lat": 55.692183,
         "lng": 12.556647,
         "name": "JYDERESERVAT",
