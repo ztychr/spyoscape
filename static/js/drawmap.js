@@ -34,8 +34,11 @@ function offsetLatLng(map, latlng, xOffset, yOffset) {
 }
 
 
-function focus_marker(marker, animate=true) {
-    marker.openPopup();
+function focus_marker(marker, animate=true, open=true) {
+	console.log(open)
+    if (open) {
+        marker.openPopup();
+    }
     // Calculate offset coordinate to allow enough space for image
     let offsetLatLngTarget = offsetLatLng(map, marker._latlng, xOffset, yOffset);
     map.flyTo(offsetLatLngTarget, 16, {
@@ -52,8 +55,8 @@ fetch('static/js/data.json')
              // Callback, when clicking a marker
              // Save work name in URL to allow linking to this work
              history.pushState({}, null, `#${marker.target.options.title}`);
+             focus_marker(marker.target, true, false);
         }
-
 
         const markersData = data;
         var ul = document.getElementById('links');
@@ -85,6 +88,7 @@ fetch('static/js/data.json')
 
         // Load image name from url (if relevant) and open it
         if (window.location.hash){
+            // Load a bogous location first, else it zooms into the wrong location
             focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker, animate=false);
             focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker, animate=true);
         }
