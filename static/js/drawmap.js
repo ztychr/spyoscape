@@ -36,7 +36,7 @@ function offsetLatLng(map, latlng, xOffset, yOffset) {
 
 function focus_marker(marker, animate=true, open=true) {
     // Center marker
-    map.flyTo(marker._latlng, 16, {
+    map.setZoom(16, {
         animate: false,
         duration: 1.0
     });
