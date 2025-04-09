@@ -14,15 +14,13 @@ var myIcon = L.icon({
 });
 
 function focus_marker(marker, open=true) {
-    // Calculate image offset, to scale dynammically to different display sizes
     var mapSize = map.getSize();
     var centerX = mapSize.x / 2;
     var centerY = mapSize.y * 0.9;
     var panX = centerX - mapSize.x / 2;
     var panY = centerY - mapSize.y / 2;
-
-    // Fit image in view, using an offset to fit image
-    map.flyTo([marker._latlng.lat + panY * 0.0001, marker._latlng.lng], 16, {
+    // Fit image in view, using a hardcoded offset to fit image
+    map.flyTo([marker._latlng.lat + panY * 0.000013, marker._latlng.lng], 16, {
         animate: true,
         duration: 1.0
     });
