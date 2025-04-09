@@ -4,13 +4,6 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
- // Caclulate pixel offset to allow space enough for the image when opening marker, given the map pixel size
-const mapSize = map.getSize();
-const centerX = mapSize.x / 2;
-const centerY = mapSize.y * 0.9;
-const xOffset = centerX - mapSize.x / 2;
-const yOffset = centerY - mapSize.y / 2;
-
 var markers = {};
 
 var myIcon = L.icon({
@@ -20,33 +13,10 @@ var myIcon = L.icon({
     popupAnchor: [0, -32]
 });
 
-// Function to calculate offset coordinates
-function offsetLatLng(map, latlng, xOffset, yOffset) {
-    // Convert the latlng to a point
-    let point = map.latLngToContainerPoint(latlng);
-
-    // Apply the offset
-    point.x -= xOffset;
-    point.y -= yOffset;
-
-    // Convert the point back to latlng
-    return map.containerPointToLatLng(point);
-}
-
-
-function focus_marker(marker, animate=true, open=true) {
-    // Center marker
-    map.setZoom(16, {
-        animate: false,
-        duration: 1.0
-    });
-
-    // Calculate offset coordinate to allow enough space for image
-    let offsetLatLngTarget = offsetLatLng(map, marker._latlng, xOffset, yOffset);
-
-    // Fit image in view
-    map.flyTo(offsetLatLngTarget, 16, {
-        animate: animate,
+function focus_marker(marker, open=true) {
+    // Fit image in view, using a hardcoded offset to fit image
+    map.flyTo([marker._latlng.lat + 0.004, marker._latlng.lng], 16, {
+        animate: true,
         duration: 1.0
     });
 
@@ -63,7 +33,7 @@ fetch('static/js/data.json')
              // Callback, when clicking a marker
              // Save work name in URL to allow linking to this work
              history.pushState({}, null, `#${marker.target.options.title}`);
-             focus_marker(marker.target, true, false);
+             focus_marker(marker.target, open=false);
         }
 
         const markersData = data;
@@ -96,7 +66,7 @@ fetch('static/js/data.json')
 
         // Load image name from url (if relevant) and open it
         if (window.location.hash){
-            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker, animate=true);
+            focus_marker(markers[decodeURIComponent(window.location.hash.substring(1))].marker);
         }
     });
 
