@@ -62,6 +62,9 @@ fetch('static/js/data.json')
                 focus_marker(marker, markerData);
                 // Append open image name to url to allow user to link to a specific image
                 history.pushState({}, null, `#${name}`);
+
+                // Scroll map into view on list click, for phone view
+                map._container.scrollIntoView()
             });
 
             var listItem = document.createElement('li');
