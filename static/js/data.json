@@ -41,12 +41,25 @@
         "authors": ["SPYO"],
         "image": "static/images/capitalism-has-no-democracy.jpg"
     },
+    "CAPiTALiSM iS SHORT-TERMED": {
+        "lat": 55.654594,
+        "lng": 12.517883,
+        "authors": ["SPYO"],
+        "image": "static/images/capitalism-is-short-termed.jpg"
+    },
     "COMMUNiCATiNG THRU WALLS...": {
         "lat": 55.690506,
         "lng": 12.55555,
         "authors": ["SPYO"],
         "image": "./static/images/communicating-thru-walls....jpg"
     },
+    "CORPORATE GREED BURN iN HELL!": {
+        "lat": 55.711808,
+        "lng": 12.553769,
+        "authors": ["SPYO"],
+        "image": "static/images/corporate-greed-burn-in-hell.jpg"
+    },
+    {
     "DEt SKA CHEFEN iK BE OM!": {
         "lat": 55.668254,
         "lng": 12.541757,
@@ -58,6 +71,13 @@
         "lng": 12.543589,
         "authors": ["SPYO"],
         "image": "static/images/diagnose.jpg"
+    },
+    "DiGiTALiSEREt KVÆG":
+    {
+        "lat": 55.712058,
+        "lng": 12.552917,
+        "authors": [ "SPYO"],
+        "image": "static/images/digitaliseret-kvaeg.jpg"
     },
     "DiNE PrObLEMEr HAr iNGEN PrObLEMEr": {
         "lat": 55.668825,
@@ -173,6 +193,12 @@
         "authors": ["SPYO"],
         "image": "static/images/ne-traveillez-jamaiz.jpg"
     },
+    "NO JOB MORE LiFE": {
+        "lat": 55.654581,
+        "lng": 12.517139,
+        "authors": ["SPYO"],
+        "image": "static/images/no-job-more-life.jpg"
+    },
     "NORMEN TRIVES": {
         "lat": 55.698986,
         "lng": 12.536356,
@@ -184,6 +210,13 @@
         "lng": 12.563429,
         "authors": ["SMOAT", "SPYO"],
         "image": "static/images/overrendt-af-kultur-døde-bonderøve.webp"
+    },
+    "OUTRAGED",
+    {
+        "lat": 55.711875,
+        "lng": 12.553503,
+        "authors": ["SPYO"],
+        "image": "static/images/outraged.jpg"
     },
     "PALESTINE WILL BE FREE": {
         "lat": 55.702919,
