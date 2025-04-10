@@ -38,10 +38,10 @@ def main():
             "lng": round(lon_dec_deg, 6),
             "name": "<QUOTE>",
             "authors": ["SPYO"],
-            "image": "./static/images/<PATH TO IMG>"
+            "image": "static/images/<PATH TO IMG>"
         }
 
-        print(json.dumps(data, indent=4))
+        print(json.dumps(data, indent=4) + ",")
 
 
 if __name__ == '__main__':
