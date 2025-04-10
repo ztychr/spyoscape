@@ -42,11 +42,25 @@
         "image": "static/images/capitalism-has-no-democracy.jpg"
     },
     {
+        "lat": 55.654594,
+        "lng": 12.517883,
+        "name": "CAPiTALiSM iS SHORT-TERMED",
+        "authors": ["SPYO"],
+        "image": "static/images/capitalism-is-short-termed.jpg"
+    },
+    {
         "lat": 55.690506,
         "lng": 12.55555,
         "name": "COMMUNICATING THRU WALLS...",
         "authors": ["SPYO"],
         "image": "./static/images/communicating-thru-walls....jpg"
+    },
+    {
+        "lat": 55.711808,
+        "lng": 12.553769,
+        "name": "CORPORATE GREED BURN iN HELL!",
+        "authors": ["SPYO"],
+        "image": "static/images/corporate-greed-burn-in-hell.jpg"
     },
     {
         "lat": 55.668254,
@@ -61,6 +75,13 @@
         "name": "DIAGNOSE",
         "authors": ["SPYO"],
         "image": "static/images/diagnose.jpg"
+    },
+    {
+        "lat": 55.712058,
+        "lng": 12.552917,
+        "name": "DiGiTALiSEREt KVÆG",
+        "authors": [ "SPYO"],
+        "image": "static/images/digitaliseret-kvaeg.jpg"
     },
     {
         "lat": 55.668825,
@@ -189,11 +210,25 @@
         "image": "static/images/ne-traveillez-jamaiz.jpg"
     },
     {
+        "lat": 55.654581,
+        "lng": 12.517139,
+        "name": "NO JOB MORE LiFE",
+        "authors": ["SPYO"],
+        "image": "static/images/no-job-more-life.jpg"
+    },
+    {
         "lat": 55.698986,
         "lng": 12.536356,
         "name": "NORMEN TRIVES",
         "authors": ["SPYO"],
         "image": "static/images/normen-trives.jpg"
+    },
+    {
+        "lat": 55.711875,
+        "lng": 12.553503,
+        "name": "OUTRAGED",
+        "authors": ["SPYO"],
+        "image": "static/images/outraged.jpg"
     },
     {
         "lat": 55.702919,
