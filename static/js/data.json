@@ -133,6 +133,13 @@
         "image": "static/images/greenwashing-ur-ass....jpg"
     },
     {
+        "lat": 55.654089,
+        "lng": 12.510417,
+        "name": "GrETA THUNBErG",
+        "authors": ["SPYO"],
+        "image": "static/images/greta-thunberg.jpg"
+    },
+    {
         "lat": 55.702442,
         "lng": 12.543458,
         "name": "GRUNDSKYLD",
@@ -210,6 +217,13 @@
         "image": "static/images/ne-traveillez-jamaiz.jpg"
     },
     {
+        "lat": 55.650236,
+        "lng": 12.511519,
+        "name": "NEOCOLONiALiSM STiLL GOiNG ON",
+        "authors": ["SPYO", "SULT"],
+        "image": "static/images/neocolonialism-still-going-on.jpg"
+    },
+    {
         "lat": 55.654581,
         "lng": 12.517139,
         "name": "NO JOB MORE LiFE",
@@ -271,6 +285,13 @@
         "name": "SELVFED-ISME",
         "authors": ["SPYO"],
         "image": "static/images/selvfed-isme.jpg"
+    },
+    {
+        "lat": 55.650836,
+        "lng": 12.511331,
+        "name": "SMÅFACiSTiSK OG KULTURLØST",
+        "authors": ["SPYO"],
+        "image": "static/images/smaafacistist-og-kulturloest.jpg"
     },
     {
         "lat": 55.655578,
