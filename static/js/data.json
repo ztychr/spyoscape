@@ -47,6 +47,18 @@
         "authors": ["SPYO"],
         "image": "static/images/capitalism-is-short-termed.jpg"
     },
+    "CAPiTALiSTiC DEMOCRACY": {
+        "lat": 55.686744,
+        "lng": 12.560272,
+        "authors": ["SPYO"],
+        "image": "static/images/capitalistic-democracy.jpg"
+    },
+    "CHR.BORG=PARADiSE HOTEL": {
+        "lat": 55.683669,
+        "lng": 12.563781,
+        "authors": ["SPYO", "SAZER"],
+        "image": "static/images/chr.borg-er-lig-paradise-hotel.jpg"
+    },
     "COMMUNiCATiNG THRU WALLS...": {
         "lat": 55.690506,
         "lng": 12.55555,
@@ -59,8 +71,27 @@
         "authors": ["SPYO"],
         "image": "static/images/corporate-greed-burn-in-hell.jpg"
     },
+    "CORPORATE GREED STiNKS!": {
+        "lat": 55.686508,
+        "lng": 12.551256,
+        "authors": ["SPYO"],
+        "image": "static/images/corporate-greed-stinks.jpg"
+    },
+    "CORPORATiZED DEMOCRACY": {
+        "lat": 55.686564,
+        "lng": 12.551086,
+        "authors": ["SPYO", "KURD1"],
+        "image": "static/images/politiciansucks.jpg"
+    },
+    "CRiMEFiGHTERS!":
     {
+        "lat": 55.685839,
+        "lng": 12.555461,
+        "authors": ["SPYO", "DEPON"],
+        "image": "static/images/crimefighters.jpg"
+    },
     "DEt SKA CHEFEN iK BE OM!": {
+    {
         "lat": 55.668254,
         "lng": 12.541757,
         "authors": ["SPYO"],
@@ -91,6 +122,13 @@
         "authors": ["SPYO"],
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
     },
+    "EUROPE BUiLD ON COLONiALiSM":
+    {
+        "lat": 55.686872,
+        "lng": 12.551217,
+        "authors": ["SPYO"],
+        "image": "static/images/europe-build-on-colonialism.jpg"
+    },
     "EVErYBODY WANTS TO BE AN ArTiST": {
         "lat": 55.667844,
         "lng": 12.553230, 
@@ -108,6 +146,24 @@
         "lng": 12.555044,
         "authors": ["SPYO"],
         "image": "static/images/forbrugsfesten.jpg"
+    },
+    "FREE PALESTiNE":{
+        "lat": 55.684922,
+        "lng": 12.555394,
+        "authors": ["SPYO"],
+        "image": "static/images/free-palestine.jpg"
+    },
+    "FUCK FASCISM": {
+        "lat": 55.686819,
+        "lng": 12.551469,
+        "authors": ["SPYO", "SAZER"],
+        "image": "static/images/kbhs-kommune-din-kaerlige-krykstok.jpg"
+    },
+    "GAZA": {
+        "lat": 55.685536,
+        "lng": 12.559842,
+        "authors": ["SPYO", "PUM"],
+        "image": "static/images/gaza.jpg"
     },
     "GOVERMENT LiES!": {
         "lat": 55.657069,
@@ -152,6 +208,18 @@
         "authors": ["SPYO"],
         "image": "static/images/hovedloest-overforbrug.jpg"
     },
+    "HVORFOR ER FRiHED iK EN GLOBAL RETTiGHED.": {
+        "lat": 55.683519,
+        "lng": 12.564267,
+        "authors": ["SPYO"],
+        "image": "static/images/hvorfor-er-frihed-ik-en-global-rettighed.jpg"
+    },
+    "HViD SKRØBELiGHED": {
+        "lat": 55.686664,
+        "lng": 12.551086,
+        "authors": ["SPYO"],
+        "image": "static/images/hvid-skroebelighed.jpg"
+    },
     "iM GAY": {
         "lat": 55.666580,
         "lng": 12.550174,
@@ -163,6 +231,12 @@
         "lng": 12.486367,
         "authors": ["SPYO"],
         "image": "static/images/im-lost-for-words.webp"
+    },
+    "jEG FORBLEV i NARNiASKABET": {
+        "lat": 55.683681,
+        "lng": 12.564467,
+        "authors": ["SPYO", "SAZER"],
+        "image": "static/images/jeg-forblev-i-narniaskabet.jpg"
     },
     "jYDERESERVAT": {
         "lat": 55.692183,
@@ -176,6 +250,13 @@
         "authors": ["SPYO", "KeSt", "SMOAT"],
         "image": "static/images/kapitalen-er-begejstret.jpg"
     },
+    "KBHS-KOMMUNE DiN KÆRLIGE KRYKSTOK":
+    {
+        "lat": 55.686819,
+        "lng": 12.551469,
+        "authors": ["SPYO"],
+        "image": "static/images/kbhs-kommune-din-kaerlige-krykstok.jpg"
+    },
     "KUNSt&KULtUR FUNGERE BEDSt UNDER ORDNEDE FORHOLD, HiLSEN StAt&KOMMUNE": {
         "lat": 55.659050,
         "lng": 12.543878,
@@ -187,6 +268,31 @@
         "lng": 12.551470,
         "authors": ["SPYO"],
         "image": "static/images/koeb-mer.jpg"
+    },
+    "LANDSFORRÆDER BjARNE CORYDON":
+    {
+        "lat": 55.685906,
+        "lng": 12.560081,
+        "authors": ["SPYO"],
+        "image": "static/images/landsforraeder-bjarne-corydon.jpg"
+    },
+    "LEAVE NOONE BEHIND": {
+        "lat": 55.686175,
+        "lng": 12.560594,
+        "authors": ["SPYO"],
+        "image": "static/images/leave-noone-behind.jpg"
+    },
+    "LETS ALL jUST BE NORMAL":
+        "lat": 55.686564,
+        "lng": 12.551086,
+        "authors": ["SPYO"],
+        "image": "static/images/politiciansucks.jpg"
+    },
+    "MANGFOLDiGHED NU!": {
+        "lat": 55.684878,
+        "lng": 12.554564,
+        "authors": ["SPYO"],
+        "image": "static/images/mangfoldighed-nu.jpg"
     },
     "MENNESKET FØR PrOFiT": {
         "lat": 55.654961,
@@ -244,11 +350,23 @@
         "authors": ["SPYO", "WHO"],
         "image": "static/images/people-in-power-benefits-from-your-ignorance.webp"
     },
+    "PASiV iNDKOMST": {
+        "lat": 55.685269,
+        "lng": 12.554536,
+        "authors": ["SPYO", "TESM"],
+        "image": "static/images/pasiv-indkomst.jpg"
+    },
     "POLiTiCALLY ORGANiSED DENiAL! :()": {
         "lat": 55.655992,
         "lng": 12.538383,
         "authors": ["SPYO"],
         "image": "static/images/politically-organised-denial.jpg"
+    },
+    "POLItICIAnSUCKS": {
+        "lat": 55.686564,
+        "lng": 12.551086,
+        "authors": ["SPYO"],
+        "image": "static/images/politiciansucks.jpg"
     },
     "POLiTiK=PØLs": {
         "lat": 55.670386,
@@ -274,13 +392,32 @@
         "authors": ["SPYO"],
         "image": "static/images/selvfed-isme.jpg"
     },
+    "SMÅFACiSTiSK LEDELSE": {
+        "lat": 55.685128,
+        "lng": 12.559483,
+        "authors": ["SPYO"],
+        "image": "static/images/smaafacistisk-ledelse.jpg"
+    },
     "SMÅFACiSTiSK OG KULTURLØST": {
         "lat": 55.650836,
         "lng": 12.511331,
         "authors": ["SPYO"],
         "image": "static/images/smaafacistist-og-kulturloest.jpg"
     },
+    "STADiG UDEN E-BOKS OG NEM iD": {
+        "lat": 55.686511,
+        "lng": 12.551422,
+        "authors": ["SPYO"],
+        "image": "static/images/stadig-uden-e-boks-og-nem-id.jpg"
+    },
+    "STOP MAKiNG RiCH PEOPLE iMPORTANT": {
+        "lat": 55.686894,
+        "lng": 12.551008,
+        "authors": ["SPYO"],
+        "image": "static/images/stop-making-rich-people-important.jpg"
+    },
     "STRUKTUREL FATTiGDOM": {
+    {
         "lat": 55.655578,
         "lng": 12.540731,
         "authors": ["SPYO"],
@@ -327,5 +464,11 @@
         "lng": 12.601080,
         "authors": ["COOLER", "SPYO", "JEEP"],
         "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
+    }
+    "UPARLAMENTARiSK ÅNDEHUL": {
+        "lat": 55.686564,
+        "lng": 12.551086,
+        "authors": ["SPYO", "KURD1"],
+        "image": "static/images/politiciansucks.jpg"
     }
 }
