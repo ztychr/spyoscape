@@ -98,6 +98,13 @@
         "image": "static/images/crimefighters.jpg"
     },
     {
+        "lat": 55.693908,
+        "lng": 12.547853,
+        "name": "DE MAGtFULDES DÆMONKRAti",
+        "authors": ["SPYO"],
+        "image": "static/images/de-magtfuldes-daemonkrati.jpg"
+    },
+    {
         "lat": 55.668254,
         "lng": 12.541757,
         "name": "DEt SKA CHEFEN iK BE OM!",
@@ -119,6 +126,13 @@
         "image": "static/images/digitaliseret-kvaeg.jpg"
     },
     {
+        "lat": 55.692503,
+        "lng": 12.551478,
+        "name": "DinE PEnGE MiG i RØVEn",
+        "authors": ["SPYO"],
+        "image": "static/images/dine-penge-mig-i-roeven.jpg"
+    },
+    {
         "lat": 55.668825,
         "lng": 12.543654,
         "name": "DiNE PrObLEMEr HAr iNGEN PrObLEMEr",
@@ -131,6 +145,13 @@
         "name": "DU ER BANKENS LiLLE SKØDEHUND",
         "authors": ["SPYO"],
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
+    },
+    {
+        "lat": 55.653962,
+        "lng": 12.535835,
+        "name": "EAT THE RiCH!",
+        "authors": ["SPYO"],
+        "image": "static/images/eat-the-rich.jpg"
     },
     {
         "lat": 55.686872,
@@ -210,6 +231,13 @@
         "image": "static/images/grundskyld.jpg"
     },
     {
+    "lat": 55.699464,
+    "lng": 12.544803,
+        "name": "GÆLD ER EN LiVSSTiL <3",
+        "authors": ["SPYO"],
+        "image": "static/images/gaeld-er-en-livsstil.jpg"
+    },
+    {
         "lat": 55.695747,
         "lng": 12.532172,
         "name": "HANNE REUMERT ILDSjÆL",
@@ -252,11 +280,25 @@
         "image": "static/images/im-gay.jpg"
     },
     {
+        "lat": 55.696828,
+        "lng": 12.546869,
+        "name": "jEG ER SÆRDELES OMSTiLLiNGSPARAT",
+        "authors": ["SPYO"],
+        "image": "static/images/jeg-er-saerdeles-omstillingsparat.jpg"
+    },
+    {
         "lat": 55.683681,
         "lng": 12.564467,
         "name": "jEG FORBLEV i NARNiASKABET",
         "authors": ["SPYO", "SAZER"],
         "image": "static/images/jeg-forblev-i-narniaskabet.jpg"
+    },
+    {
+        "lat": 55.698394,
+        "lng": 12.544128,
+        "name": "jOB NOGET DER SKA PASSES!",
+        "authors": ["SPYO"],
+        "image": "static/images/job-noget-der-ska-passes.jpg"
     },
     {
         "lat": 55.692183,
@@ -404,6 +446,13 @@
         "name": "PSEUDO DiT LiV ER RØV SKOD",
         "authors": ["SPYO"],
         "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
+    },
+    {
+        "lat": 55.698511,
+        "lng": 12.543947,
+        "name": "SASS DEN OP FRA SLAP",
+        "authors": ["SPYO"],
+        "image": "static/images/sass-den-op-fra-slap.jpg"
     },
     {
         "lat": 55.660589,
