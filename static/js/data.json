@@ -92,6 +92,13 @@
     },
     "DEt SKA CHEFEN iK BE OM!": {
     {
+        "lat": 55.693908,
+        "lng": 12.547853,
+        "name": "DE MAGtFULDES DÆMONKRAti",
+        "authors": ["SPYO"],
+        "image": "static/images/de-magtfuldes-daemonkrati.jpg"
+    },
+    {
         "lat": 55.668254,
         "lng": 12.541757,
         "authors": ["SPYO"],
@@ -110,6 +117,12 @@
         "authors": [ "SPYO"],
         "image": "static/images/digitaliseret-kvaeg.jpg"
     },
+    "DinE PEnGE MiG i RØVEn": {
+        "lat": 55.692503,
+        "lng": 12.551478,
+        "authors": ["SPYO"],
+        "image": "static/images/dine-penge-mig-i-roeven.jpg"
+    },
     "DiNE PrObLEMEr HAr iNGEN PrObLEMEr": {
         "lat": 55.668825,
         "lng": 12.543654,
@@ -123,6 +136,13 @@
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
     },
     "EUROPE BUiLD ON COLONiALiSM":
+    {
+        "lat": 55.653962,
+        "lng": 12.535835,
+        "name": "EAT THE RiCH!",
+        "authors": ["SPYO"],
+        "image": "static/images/eat-the-rich.jpg"
+    },
     {
         "lat": 55.686872,
         "lng": 12.551217,
@@ -190,6 +210,12 @@
         "authors": ["SPYO"],
         "image": "static/images/grundskyld.jpg"
     },
+    "GÆLD ER EN LiVSSTiL <3": {
+        "lat": 55.699464,
+        "lng": 12.544803,
+        "authors": ["SPYO"],
+        "image": "static/images/gaeld-er-en-livsstil.jpg"
+    },
     "HANNE REUMERT ILDSjÆL": {
         "lat": 55.695747,
         "lng": 12.532172,
@@ -232,13 +258,26 @@
         "authors": ["SPYO"],
         "image": "static/images/im-lost-for-words.webp"
     },
+    "jEG ER SÆRDELES OMSTiLLiNGSPARAT": {
+        "lat": 55.696828,
+        "lng": 12.546869,
+        "authors": ["SPYO"],
+        "image": "static/images/jeg-er-saerdeles-omstillingsparat.jpg"
+    },
     "jEG FORBLEV i NARNiASKABET": {
         "lat": 55.683681,
         "lng": 12.564467,
         "authors": ["SPYO", "SAZER"],
         "image": "static/images/jeg-forblev-i-narniaskabet.jpg"
     },
+    "jOB NOGET DER SKA PASSES!": {
+        "lat": 55.698394,
+        "lng": 12.544128,
+        "authors": ["SPYO"],
+        "image": "static/images/job-noget-der-ska-passes.jpg"
+    },
     "jYDERESERVAT": {
+    {
         "lat": 55.692183,
         "lng": 12.556647,
         "authors": ["SPYO"],
@@ -379,6 +418,12 @@
         "lng": 12.55555,
         "authors": ["SPYO", "SMOAT"],
         "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
+    },
+    "SASS DEN OP FRA SLAP": {
+        "lat": 55.698511,
+        "lng": 12.543947,
+        "authors": ["SPYO"],
+        "image": "static/images/sass-den-op-fra-slap.jpg"
     },
     "SELVCENTER'D": {
         "lat": 55.660589,
