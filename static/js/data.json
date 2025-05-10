@@ -23,7 +23,7 @@
     {
         "lat": 55.654025,
         "lng": 12.535908,
-        "name": "BIRDSFMK SPYO NON SERViAM",
+        "name": "NON SERViAM",
         "authors": ["SPYO"],
         "image": "static/images/birdsfmk-spyo-non-serviam.jpg"
     },
@@ -77,7 +77,7 @@
         "image": "static/images/corporate-greed-burn-in-hell.jpg"
     },
     {
-        "lat": 55.686508,
+       "lat": 55.686508,
         "lng": 12.551256,
         "name": "CORPORATE GREED STiNKS!",
         "authors": ["SPYO"],
@@ -152,6 +152,13 @@
         "name": "EAT THE RiCH!",
         "authors": ["SPYO"],
         "image": "static/images/eat-the-rich.jpg"
+    },
+    {
+        "lat": 55.664269,
+        "lng": 12.576508,
+        "name": "ER PENGE DYNAMiSKE",
+        "authors": ["SPYO"],
+        "image": "static/images/er-penge-dynamiske.jpg"
     },
     {
         "lat": 55.686872,
@@ -280,6 +287,13 @@
         "image": "static/images/im-gay.jpg"
     },
     {
+        "lat": 55.66335,
+        "lng": 12.536819,
+        "name": "iMPERiALiSTiC MiNDFULNESS",
+        "authors": ["SPYO", "DEPON"],
+        "image": "static/images/imperialistic-mindfulness.jpg"
+    },
+    {
         "lat": 55.696828,
         "lng": 12.546869,
         "name": "jEG ER SÆRDELES OMSTiLLiNGSPARAT",
@@ -364,11 +378,18 @@
         "image": "static/images/mangfoldighed-nu.jpg"
     },
     {
+        "lat": 55.662946,
+        "lng": 12.575752,
+        "name": "MEDMENNESKELiGHED",
+        "authors": ["SPYO"],
+        "image": "static/images/medmenneskelighed.jpg"
+    },
+    {
         "lat": 55.654961,
         "lng": 12.520164,
         "name": "MENNESKET FØR PrOFiT",
         "authors": ["SPYO"],
-        "image": "./static/images/mennesket-foer-profit.jpg"
+        "image": "static/images/mennesket-foer-profit.jpg"
     },
     {
         "lat": 55.655633,
@@ -376,6 +397,13 @@
         "name": "NE TRAVAiLLEZ jAMAiS",
         "authors": ["SPYO"],
         "image": "static/images/ne-traveillez-jamaiz.jpg"
+    },
+    {
+        "lat": 55.639513,
+        "lng": 12.550421,
+        "name": "NEj TAK TiL ROTTERÆSET",
+        "authors": ["SPYO"],
+        "image": "static/images/nej-tak-til-rotteraeset.jpg"
     },
     {
         "lat": 55.650236,
