@@ -36,9 +36,9 @@ def main():
         data = {
             "lat": round(lat_dec_deg, 6),
             "lng": round(lon_dec_deg, 6),
-            "name": "<QUOTE>",
+            "name": "QUOTE",
             "authors": ["SPYO"],
-            "image": "static/images/<PATH TO IMG>"
+            "image": str(sys.argv[1])
         }
 
         print(json.dumps(data, indent=4) + ",")
