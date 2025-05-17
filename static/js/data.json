@@ -1,5 +1,12 @@
 [
     {
+        "lat": 55.677347,
+        "lng": 12.603058,
+        "name": "ABUSiVE PEOPLE SUCK!",
+        "authors": ["SPYO"],
+        "image": "static/images/abusive-people-suck.jpeg"
+    },
+    {
         "lat": 55.660186,
         "lng": 12.543522,
         "name": "ALL YOU NEED iS LESS OF EVERYTHiNG",
@@ -391,8 +398,8 @@
         "image": "static/images/mangfoldighed-nu.jpg"
     },
     {
-        "lat": 55.682977,
-        "lng": 12.607277,
+        "lat": 55.6827900,
+        "lng": 12.6082411,
         "name": "MEDFØDtE PRiViLEGiER",
         "authors": ["SPYO"],
         "image": "static/images/medfoedte-privilegier.jpeg"
