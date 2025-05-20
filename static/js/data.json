@@ -822,5 +822,173 @@
         "lng": 12.551086,
         "authors": ["SPYO", "KURD1"],
         "image": "static/images/politiciansucks.jpg"
+    },
+    "KiL UR EGO": {
+        "lat": 55.650416,
+        "lng": 12.518833,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/KiL UR EGO.webp"
+    },
+    "STiNKER AF GENTRiFiCERiNG!": {
+        "lat": 55.706784,
+        "lng": 12.5426,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/STiNKER AF GENTRiFiCERiNG!.webp"
+    },
+    "ART WitHOUT iNTERFERENCE": {
+        "lat": 55.703397,
+        "lng": 12.554764,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/ART WitHOUT iNTERFERENCE.webp"
+    },
+    "SYG NOK": {
+        "lat": 55.640537,
+        "lng": 12.498912,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/SYG NOK.webp"
+		},
+    "TRANS RIGHTS COMiNG TO A THEATRE NEAR U": {
+        "lat": 55.706579,
+        "lng": 12.54231,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/TRANS RIGHTS COMiNG TO A THEATRE NEAR U.webp"
+		},
+    "BITE THE HAND THAT FEEDS YOU": {
+        "lat": 55.662945,
+        "lng": 12.52458,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/BITE THE HAND THAT FEEDS YOU.webp"
+		},
+    "BLEV KASSiFiCERET SOM UTiLPASSET DET NU MiT ST\u00c6RKEste GruNDLAG": {
+        "lat": 55.70015,
+        "lng": 12.537528,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/BLEV KASSiFiCERET SOM UTiLPASSET DET NU MiT ST\u00c6RKEste GruNDLAG.webp"
+		},
+    "ABOVe SOCiAL ACCEPTED NORMALiTiES": {
+        "lat": 55.692549,
+        "lng": 12.535942,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/ABOVe SOCiAL ACCEPTED NORMALiTiES.webp"
+    },
+    "FAKE SOCiAL MEDiA PERSONALiTY": {
+        "lat": 55.689805,
+        "lng": 12.563156,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/FAKE SOCiAL MEDiA PERSONALiTY.webp"
+    },
+    "SAMFUNDSSViND": {
+        "lat": 55.706613,
+        "lng": 12.557089,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/SAMFUNDSSViND.webp"
+    },
+    "RESSOURCEFAtti ANDENRANDGSBORGER": {
+        "lat": 55.699795,
+        "lng": 12.537409,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/RESSOURCEFAtti ANDENRANDGSBORGER.webp"
+    },
+    "Gl\u00c6DLiG ANGST OG GO": {
+        "lat": 55.706356,
+        "lng": 12.542257,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/Gl\u00c6DLiG ANGST OG GO.webp"
+    },
+    "METTE KA SLETTE": {
+        "lat": 55.706579,
+        "lng": 12.54231,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/METTE KA SLETTE.webp"
+    },
+    "TURN OFF THE MAiN STREAM MEDiA!": {
+        "lat": 55.699622,
+        "lng": 12.5373,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/TURN OFF THE MAiN STREAM MEDiA!.webp"
+    },
+    "METTE DU iK MiN STATSMiNiSTER - LARS & METTE TiLGODESER FOLKEMORD!!": {
+        "lat": 55.699966,
+        "lng": 12.537441,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/METTE DU iK MiN STATSMiNiSTER - LARS & METTE TiLGODESER FOLKEMORD!!.webp"
+    },
+    "Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL": {
+        "lat": 55.613786,
+        "lng": 12.510473,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL.webp"
+    },
+    "GRAFFiTY IS A -> DiSCUSTiNG HABiT!": {
+        "lat": 55.707676,
+        "lng": 12.556587,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/GRAFFiTY IS A -> DiSCUSTiNG HABiT!.webp"
+    },
+    "POLiTiSK HYKLERi": {
+        "lat": 55.699843,
+        "lng": 12.537694,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/POLiTiSK HYKLERi.webp"
+    },
+    "DESTROY ZiONiSM": {
+        "lat": 55.694614,
+        "lng": 12.537635,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/DESTROY ZiONiSM.webp"
+    },
+    "NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM": {
+        "lat": 55.694614,
+        "lng": 12.535879,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM.webp"
+    },
+    "DENNE MODEL F\u00c5S OSS i SANDFARVET": {
+        "lat": 55.703644,
+        "lng": 12.556118,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/DENNE MODEL F\u00c5S OSS i SANDFARVET.webp"
     }
 }
