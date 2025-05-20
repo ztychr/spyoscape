@@ -83,22 +83,19 @@
         "authors": ["SPYO", "KURD1"],
         "image": "static/images/politiciansucks.jpg"
     },
-    "CRiMEFiGHTERS!":
-    {
+    "CRiMEFiGHTERS!": {
         "lat": 55.685839,
         "lng": 12.555461,
         "authors": ["SPYO", "DEPON"],
         "image": "static/images/crimefighters.jpg"
     },
-    "DEt SKA CHEFEN iK BE OM!": {
-    {
+    "DE MAGtFULDES DÆMONKRAti": {
         "lat": 55.693908,
         "lng": 12.547853,
-        "name": "DE MAGtFULDES DÆMONKRAti",
         "authors": ["SPYO"],
         "image": "static/images/de-magtfuldes-daemonkrati.jpg"
     },
-    {
+    "DEt SKA CHEFEN iK BE OM!": {
         "lat": 55.668254,
         "lng": 12.541757,
         "authors": ["SPYO"],
@@ -135,14 +132,14 @@
         "authors": ["SPYO"],
         "image": "static/images/du-er-bankens-lille-skoedehund.jpg"
     },
-    "EUROPE BUiLD ON COLONiALiSM":
+    "EAT THE RiCH!":
     {
         "lat": 55.653962,
         "lng": 12.535835,
-        "name": "EAT THE RiCH!",
         "authors": ["SPYO"],
         "image": "static/images/eat-the-rich.jpg"
     },
+    "EUROPE BUiLD ON COLONiALiSM":
     {
         "lat": 55.686872,
         "lng": 12.551217,
@@ -198,7 +195,6 @@
         "image": "static/images/greenwashing-ur-ass....jpg"
     },
     "GRUNDSKYLD": {
-    {
         "lat": 55.654089,
         "lng": 12.510417,
         "authors": ["SPYO"],
@@ -277,7 +273,6 @@
         "image": "static/images/job-noget-der-ska-passes.jpg"
     },
     "jYDERESERVAT": {
-    {
         "lat": 55.692183,
         "lng": 12.556647,
         "authors": ["SPYO"],
@@ -289,8 +284,7 @@
         "authors": ["SPYO", "KeSt", "SMOAT"],
         "image": "static/images/kapitalen-er-begejstret.jpg"
     },
-    "KBHS-KOMMUNE DiN KÆRLIGE KRYKSTOK":
-    {
+    "KBHS-KOMMUNE DiN KÆRLIGE KRYKSTOK": {
         "lat": 55.686819,
         "lng": 12.551469,
         "authors": ["SPYO"],
@@ -308,8 +302,7 @@
         "authors": ["SPYO"],
         "image": "static/images/koeb-mer.jpg"
     },
-    "LANDSFORRÆDER BjARNE CORYDON":
-    {
+    "LANDSFORRÆDER BjARNE CORYDON": {
         "lat": 55.685906,
         "lng": 12.560081,
         "authors": ["SPYO"],
@@ -321,7 +314,7 @@
         "authors": ["SPYO"],
         "image": "static/images/leave-noone-behind.jpg"
     },
-    "LETS ALL jUST BE NORMAL":
+    "LETS ALL jUST BE NORMAL": {
         "lat": 55.686564,
         "lng": 12.551086,
         "authors": ["SPYO"],
@@ -370,8 +363,7 @@
         "authors": ["SMOAT", "SPYO"],
         "image": "static/images/overrendt-af-kultur-døde-bonderøve.webp"
     },
-    "OUTRAGED",
-    {
+    "OUTRAGED": {
         "lat": 55.711875,
         "lng": 12.553503,
         "authors": ["SPYO"],
@@ -462,7 +454,6 @@
         "image": "static/images/stop-making-rich-people-important.jpg"
     },
     "STRUKTUREL FATTiGDOM": {
-    {
         "lat": 55.655578,
         "lng": 12.540731,
         "authors": ["SPYO"],
@@ -509,7 +500,7 @@
         "lng": 12.601080,
         "authors": ["COOLER", "SPYO", "JEEP"],
         "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
-    }
+    },
     "UPARLAMENTARiSK ÅNDEHUL": {
         "lat": 55.686564,
         "lng": 12.551086,
