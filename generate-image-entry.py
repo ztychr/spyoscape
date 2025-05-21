@@ -33,15 +33,20 @@ def main():
         lat_dec_deg = to_dec_deg(lat_formatted)
         lon_dec_deg = to_dec_deg(lon_formatted)
 
-        data = {
-            "lat": round(lat_dec_deg, 6),
-            "lng": round(lon_dec_deg, 6),
-            "name": "QUOTE",
-            "authors": ["SPYO"],
-            "image": str(sys.argv[1])
+        data = { "QUOTE":
+                 {
+                     "lat": round(lat_dec_deg, 6),
+                     "lng": round(lon_dec_deg, 6),
+                     "authors": ["SPYO"],
+                     "image": str(sys.argv[1])
+                 }
         }
 
-        print(json.dumps(data, indent=4) + ",")
+        json_str = json.dumps(data, indent=4)
+        lines = json_str.splitlines()
+        trimmed = "\n".join(lines[1:-1])
+        print(trimmed + ',')
+#        print(json.dumps(data, indent=4) + ",")
 
 
 if __name__ == '__main__':
