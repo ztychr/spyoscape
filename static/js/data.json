@@ -5,6 +5,12 @@
         "authors": ["SPYO"],
         "image": "static/images/abusive-people-suck.jpeg"
     },
+    "AFMONTER iSRAEL NU": {
+        "lat": 55.687653,
+        "lng": 12.554092,
+        "authors": ["SPYO"],
+        "image": "static/images/afmonter-israel-nu.jpg"
+    },
     "ALL YOU NEED iS LESS OF EVERYTHiNG": {
         "lat": 55.660186,
         "lng": 12.543522,
@@ -29,12 +35,6 @@
         "authors": ["SPYO"],
         "image": "static/images/artistic-integrity-you-are....jpg"
     },
-    "BIRDSFMK SPYO NON SERViAM": {
-        "lat": 55.654025,
-        "lng": 12.535908,
-        "authors": ["SPYO"],
-        "image": "static/images/birdsfmk-spyo-non-serviam.jpg"
-    },
     "ARTiSTiC iNTEGRiTY YOU ARE ABOUt tO BECOME PRiVAtiZED AS StAtE GOVERMENt PROPERtY (iM DYSLEXiC)": {
         "lat": 55.657492,
         "lng": 12.556389,
@@ -46,6 +46,12 @@
         "lng": 12.556389,
         "authors": ["SPYO"],
         "image": "static/images/braend-lortet-af.jpg"
+    },
+    "BUREAUKRATiSK SKiLLELiNiE.": {
+        "lat": 55.687144,
+        "lng": 12.555031,
+        "authors": ["SPYO"],
+        "image": "static/images/bureaukratisk-skillelinie..jpg"
     },
     "CAPiTALiSM HAS NO DEMOCRACY": {
         "lat": 55.695297,
@@ -172,6 +178,14 @@
         "lng": 12.534096,
         "authors": ["SPYO"],
         "image": "static/images/define-freedom.jpeg"
+    },
+    "DEHUMANiZATiON": {
+        "lat": 55.681533,
+        "lng": 12.520208,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/dehumanization.jpg"
     },
     "DEt SKA CHEFEN iK BE OM!": {
         "lat": 55.668254,
@@ -378,17 +392,23 @@
         "authors": ["SPYO"],
         "image": "static/images/humans-dehumanize.jpeg"
     },
-    "HVORFOR ER FRiHED iK EN GLOBAL RETTiGHED.": {
-        "lat": 55.683519,
-        "lng": 12.564267,
+    "HViD HETRO MAND BLiND": {
+        "lat": 55.688403,
+        "lng": 12.556472,
         "authors": ["SPYO"],
-        "image": "static/images/hvorfor-er-frihed-ik-en-global-rettighed.jpg"
+        "image": "static/images/hvid-hetro-mand-blind.jpg"
     },
     "HViD SKRØBELiGHED": {
         "lat": 55.686664,
         "lng": 12.551086,
         "authors": ["SPYO"],
         "image": "static/images/hvid-skroebelighed.jpg"
+    },
+    "HVORFOR ER FRiHED iK EN GLOBAL RETTiGHED.": {
+        "lat": 55.683519,
+        "lng": 12.564267,
+        "authors": ["SPYO"],
+        "image": "static/images/hvorfor-er-frihed-ik-en-global-rettighed.jpg"
     },
     "HVORFOR ER FRiHED iK EN GLOBAL RETTiGHED.": {
         "lat": 55.683519,
@@ -480,6 +500,12 @@
         "authors": ["SPYO"],
         "image": "static/images/kbhs-kommune-din-kaerlige-krykstok.jpg"
     },
+    "KLØjS i VALGFLÆSK": {
+        "lat": 55.687663,
+        "lng": 12.554102,
+        "authors": ["SPYO", "DANKO", "SAZER"],
+        "image": "static/images/afmonter-israel-nu.jpg"
+    },
     "KUNSt&KULtUR FUNGERE BEDSt UNDER ORDNEDE FORHOLD, HiLSEN StAt&KOMMUNE": {
         "lat": 55.659050,
         "lng": 12.543878,
@@ -509,6 +535,12 @@
         "lng": 12.551086,
         "authors": ["SPYO"],
         "image": "static/images/politiciansucks.jpg"
+    },
+    "LiSTEN TO GRETA THUNBERG": {
+        "lat": 55.6869656,
+        "lng": 12.4909978,
+        "authors": ["SPYO"],
+        "image": "static/images/listen-to-greta-thunberg.jpeg"
     },
     "MANGFOLDiGHED NU!": {
         "lat": 55.684878,
@@ -643,12 +675,6 @@
         "authors": ["SPYO", "TESM"],
         "image": "static/images/pasiv-indkomst.jpg"
     },
-    "POLiTiCALLY ORGANiSED DENiAL! :()": {
-        "lat": 55.655992,
-        "lng": 12.538383,
-        "authors": ["SPYO"],
-        "image": "static/images/politically-organised-denial.jpg"
-    },
     "POLItICIAnSUCKS": {
         "lat": 55.686564,
         "lng": 12.551086,
@@ -721,6 +747,12 @@
         "authors": ["SPYO"],
         "image": "static/images/smaafacistist-og-kulturloest.jpg"
     },
+    "SPYO-StREEt ARtENS tESSA": {
+        "lat": 55.7003787,
+        "lng": 12.5336687,
+        "authors": ["SPYO"],
+        "image": "static/images/street-artens-tessa.jpeg"
+    },
     "STADiG UDEN E-BOKS OG NEM iD": {
         "lat": 55.686511,
         "lng": 12.551422,
@@ -732,6 +764,12 @@
         "lng": 12.551008,
         "authors": ["SPYO"],
         "image": "static/images/stop-making-rich-people-important.jpg"
+    },
+    "STOP MED AT FODRE MASKiNEN": {
+        "lat": 55.6341222,
+        "lng": 12.6519585,
+        "authors": ["SPYO"],
+        "image": "static/images/stop-med-at-fodre-maskinen.jpeg"
     },
     "SMÅFACiSTiSK LEDELSE": {
         "lat": 55.685128,
@@ -762,6 +800,12 @@
         "lng": 12.498428,
         "authors": ["SPYO"],
         "image": "static/images/stenbroens-buttede-afrodite.jpeg"
+    },
+    "STOP iSRAEL NOW!": {
+        "lat": 55.688413,
+        "lng": 12.556482,
+        "authors": ["SPYO"],
+        "image": "static/images/hvid-hetro-mand-blind.jpg"
     },
     "STOP MAKiNG RiCH PEOPLE iMPORTANT": {
         "lat": 55.686894,
@@ -810,6 +854,14 @@
         "lng": 12.531800,
         "authors": ["SPYO"],
         "image": "static/images/try-privatizing-this.jpg"
+    },
+    "UMENNESKELiGT": {
+        "lat": 55.707394,
+        "lng": 12.521897,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/umenneskeligt.jpg"
     },
     "WATCH UR LIFE VANISH FROM CAPiTALiSM !": {
         "lat": 55.721368,
