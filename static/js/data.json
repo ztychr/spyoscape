@@ -29,6 +29,12 @@
         "authors": ["SPYO"],
         "image": "static/images/aparnage-til-alle....jpg"
     },
+    "ART iS ABOUT SACRiFiCES OVER&OVER AGAiN": {
+        "lat": 55.6396895,
+        "lng": 12.6457203,
+        "authors": ["SPYO"],
+        "image": "static/images/art-is-about-sacrifices-over-and-over-again.jpeg"
+    },
     "ARTiSTiC iNTEGRiTY YOU ARE ABOUt tO BECOME PRiVAtiZED AS StAtE GOVERMENt PROPERtY (iM DYSLEXiC)": {
         "lat": 55.655789,
         "lng": 12.540328,
@@ -113,7 +119,13 @@
         "authors": ["SPYO"],
         "image": "static/images/de-magtfuldes-daemonkrati.jpg"
     },
-    "CAPiTALiSM HAS NO DEMOCRACY": {
+    "Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL": {
+        "lat": 55.613786,
+        "lng": 12.510473,
+        "authors": ["SPYO"],
+        "image": "static/images/Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL.webp"
+    },
+   "CAPiTALiSM HAS NO DEMOCRACY": {
         "lat": 55.668254,
         "lng": 12.541757,
         "authors": ["SPYO"],
@@ -186,6 +198,18 @@
             "SPYO"
         ],
         "image": "static/images/dehumanization.jpg"
+    },
+    "DENNE MODEL F\u00c5S OSS i SANDFARVET": {
+        "lat": 55.703644,
+        "lng": 12.556118,
+        "authors": ["SPYO"],
+        "image": "static/images/DENNE MODEL F\u00c5S OSS i SANDFARVET.webp"
+    },
+    "DESTROY ZiONiSM": {
+        "lat": 55.694614,
+        "lng": 12.537635,
+        "authors": ["SPYO"],
+        "image": "static/images/DESTROY ZiONiSM.webp"
     },
     "DEt SKA CHEFEN iK BE OM!": {
         "lat": 55.668254,
@@ -344,11 +368,11 @@
         "authors": ["SPYO", "WHO"],
         "image": "static/images/greenwashing-ur-ass....jpg"
     },
-    "GRUNDSKYLD": {
-        "lat": 55.654089,
-        "lng": 12.510417,
+    "GRAFFiTY IS A -> DiSCUSTiNG HABiT!": {
+        "lat": 55.707676,
+        "lng": 12.556587,
         "authors": ["SPYO"],
-        "image": "static/images/greta-thunberg.jpg"
+        "image": "static/images/GRAFFiTY IS A -> DiSCUSTiNG HABiT!.webp"
     },
     "GrETA THUNBErG": {
         "lat": 55.654089,
@@ -506,6 +530,12 @@
         "authors": ["SPYO", "DANKO", "SAZER"],
         "image": "static/images/afmonter-israel-nu.jpg"
     },
+    "KOFOD SKOLE HER ER DER PLADS TiL DiG & MiG": {
+        "lat": 55.687663,
+        "lng": 12.554102,
+        "authors": ["SPYO"],
+        "image": "static/images/kofod-skole-her-er-der-plads-til-dig-og-mig.jpeg"
+    },
     "KUNSt&KULtUR FUNGERE BEDSt UNDER ORDNEDE FORHOLD, HiLSEN StAt&KOMMUNE": {
         "lat": 55.659050,
         "lng": 12.543878,
@@ -633,6 +663,12 @@
         "authors": ["SPYO"],
         "image": "static/images/birdsfmk-spyo-non-serviam.jpg"
     },
+    "NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM": {
+        "lat": 55.694614,
+        "lng": 12.535879,
+        "authors": ["SPYO"],
+        "image": "static/images/NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM.webp"
+    },
     "NORMEN TRIVES": {
         "lat": 55.698986,
         "lng": 12.536356,
@@ -651,17 +687,17 @@
         "authors": ["SPYO"],
         "image": "static/images/outraged.jpg"
     },
-    "OUTRAGED": {
-        "lat": 55.711875,
-        "lng": 12.553503,
-        "authors": ["SPYO"],
-        "image": "static/images/outraged.jpg"
-    },
     "PALESTINE WILL BE FREE": {
         "lat": 55.702919,
         "lng": 12.543353,
         "authors": ["SPYO"],
         "image": "static/images/palestine-will-be-free.jpg"
+    },
+    "PASiV iNDKOMST": {
+        "lat": 55.685269,
+        "lng": 12.554536,
+        "authors": ["SPYO", "TESM"],
+        "image": "static/images/pasiv-indkomst.jpg"
     },
     "PEOPLE iN POWER BNEFiTS FROM YOUR iGNORANCE": {
         "lat": 55.6681855,
@@ -669,23 +705,11 @@
         "authors": ["SPYO", "WHO"],
         "image": "static/images/people-in-power-benefits-from-your-ignorance.webp"
     },
-    "PASiV iNDKOMST": {
-        "lat": 55.685269,
-        "lng": 12.554536,
-        "authors": ["SPYO", "TESM"],
-        "image": "static/images/pasiv-indkomst.jpg"
-    },
-    "POLItICIAnSUCKS": {
-        "lat": 55.686564,
-        "lng": 12.551086,
+    "POLiTiSK HYKLERi": {
+        "lat": 55.699843,
+        "lng": 12.537694,
         "authors": ["SPYO"],
-        "image": "static/images/politiciansucks.jpg"
-    },
-    "PASiV iNDKOMST": {
-        "lat": 55.685269,
-        "lng": 12.554536,
-        "authors": ["SPYO", "TESM"],
-        "image": "static/images/pasiv-indkomst.jpg"
+        "image": "static/images/POLiTiSK HYKLERi.webp"
     },
     "POLiTiCALLY ORGANiSED DENiAL! :(": {
         "lat": 55.655992,
@@ -906,7 +930,7 @@
             "SPYO"
         ],
         "image": "static/images/SYG NOK.webp"
-		},
+    },
     "TRANS RIGHTS COMiNG TO A THEATRE NEAR U": {
         "lat": 55.706579,
         "lng": 12.54231,
@@ -914,7 +938,7 @@
             "SPYO"
         ],
         "image": "static/images/TRANS RIGHTS COMiNG TO A THEATRE NEAR U.webp"
-		},
+    },
     "BITE THE HAND THAT FEEDS YOU": {
         "lat": 55.662945,
         "lng": 12.52458,
@@ -994,53 +1018,5 @@
             "SPYO"
         ],
         "image": "static/images/METTE DU iK MiN STATSMiNiSTER - LARS & METTE TiLGODESER FOLKEMORD!!.webp"
-    },
-    "Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL": {
-        "lat": 55.613786,
-        "lng": 12.510473,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/Dit V\u00c6RD St\u00c5R P\u00c5 DiN L\u00d8NSEDDEL.webp"
-    },
-    "GRAFFiTY IS A -> DiSCUSTiNG HABiT!": {
-        "lat": 55.707676,
-        "lng": 12.556587,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/GRAFFiTY IS A -> DiSCUSTiNG HABiT!.webp"
-    },
-    "POLiTiSK HYKLERi": {
-        "lat": 55.699843,
-        "lng": 12.537694,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/POLiTiSK HYKLERi.webp"
-    },
-    "DESTROY ZiONiSM": {
-        "lat": 55.694614,
-        "lng": 12.537635,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/DESTROY ZiONiSM.webp"
-    },
-    "NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM": {
-        "lat": 55.694614,
-        "lng": 12.535879,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM.webp"
-    },
-    "DENNE MODEL F\u00c5S OSS i SANDFARVET": {
-        "lat": 55.703644,
-        "lng": 12.556118,
-        "authors": [
-            "SPYO"
-        ],
-        "image": "static/images/DENNE MODEL F\u00c5S OSS i SANDFARVET.webp"
     }
 }
