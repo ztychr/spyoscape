@@ -81,6 +81,13 @@ header img {
 }
 
 .leaflet-popup-content {
+    align-items: center;
+    justify-content: center;
+    overflow: hidden !important;  /* clip anything outside */
+    padding: 0 !important;         /* optional, to avoid extra space */
+}
+
+.leaflet-popup-content {
     width: 80vw;
     font-size: 14px;
     padding-bottom: 5px;

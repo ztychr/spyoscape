@@ -52,7 +52,7 @@ map.on('popupopen', function (e) {
     }
 });
 
-map.on('popupopen', function (e) {
+/*map.on('popupopen', function (e) {
     // `e.popup` is the popup that was opened
     // You can access its content or related marker
 
@@ -63,7 +63,7 @@ map.on('popupopen', function (e) {
     if (img) {
         WZoom.create(img);
     }
-});
+});*/
 
 fetch('static/js/data.json')
     .then(response => response.json())
