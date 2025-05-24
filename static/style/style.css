@@ -81,18 +81,16 @@ header img {
 }
 
 .leaflet-popup-content {
-    align-items: center;
-    justify-content: center;
-    overflow: hidden !important;  /* clip anything outside */
-    padding: 0 !important;         /* optional, to avoid extra space */
-}
-
-.leaflet-popup-content {
     width: 80vw;
     font-size: 14px;
     padding-bottom: 5px;
     text-align: center;
     margin: 0px;
+    /* Zoom script */
+    align-items: center;
+    justify-content: center;
+    overflow: hidden !important;
+    padding: 0 !important;
 }
 
 .leaflet-popup-content-wrapper {

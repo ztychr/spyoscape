@@ -53,12 +53,7 @@ map.on('popupopen', function (e) {
 });
 
 /*map.on('popupopen', function (e) {
-    // `e.popup` is the popup that was opened
-    // You can access its content or related marker
-
     console.log('Popup opened:', e.popup);
-
-    // Example: apply WZoom to any image inside the popup
     const img = e.popup.getElement().querySelector('img');
     if (img) {
         WZoom.create(img);
