@@ -30,6 +30,41 @@ function focus_marker(marker, open=true) {
     }
 }
 
+map.on('popupopen', function (e) {
+    const popupEl = e.popup.getElement();
+    if (popupEl) {
+        const img = popupEl.querySelector('img');
+        if (img) {
+            WZoom.create(img,
+                         {
+                             smoothTime: 0,
+                             minScale: 1,
+                             maxScale: 10,
+                             onGrab: function () {
+                                 img.style.cursor = 'grabbing';
+                             },
+                             onDrop: function () {
+                                 img.style.cursor = 'grab';
+                             },
+                         }
+                        );
+        }
+    }
+});
+
+map.on('popupopen', function (e) {
+    // `e.popup` is the popup that was opened
+    // You can access its content or related marker
+
+    console.log('Popup opened:', e.popup);
+
+    // Example: apply WZoom to any image inside the popup
+    const img = e.popup.getElement().querySelector('img');
+    if (img) {
+        WZoom.create(img);
+    }
+});
+
 fetch('static/js/data.json')
     .then(response => response.json())
     .then(data => {
@@ -48,7 +83,8 @@ fetch('static/js/data.json')
             var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${name}` }).addTo(map).on('click', click_marker);;
             var authorsList = markerData.authors.join(', ');
 
-            marker.bindPopup(`<img src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
+            marker.bindPopup(`<img id="zoom-image-${index}" class="zoomable-img" src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
+
             markers[name] = {marker: marker, index: index};
 
             var link = document.createElement('a');
