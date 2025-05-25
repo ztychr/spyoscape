@@ -35,6 +35,7 @@ map.on('popupopen', function (e) {
     if (popupEl) {
         const img = popupEl.querySelector('img');
         if (img) {
+					setTimeout(function() {
             WZoom.create(img,
                          {
                              smoothTime: 0,
@@ -48,6 +49,7 @@ map.on('popupopen', function (e) {
                              },
                          }
                         );
+						}, 1000);
         }
     }
 });
