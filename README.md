@@ -18,10 +18,9 @@ To add your submission to the project, follow the following procedure.
    - Do you best to exclude the faces of bypassers when taking the photo.
 3. Enter the data for the new image in `static/js/data.json`.
    - The list is alphabetically sorted, so find the suitable place.
+   - The primary key is  should be the full quote, following the capitalisation of the artwork.
    - **lat/lng**
      - The `lat`/`lng` should be reflecting the position from where the image was taken. You may use `generate-image-entry.py` to generate the boilerplate JSON and extract the `lat`/`lng` from the image (please verify them). The usage is `python generate-image-entry.py static/images/<image>.jpg` and the script requires the python [`exif`](https://pypi.org/project/exif/) package. If GPS information is not included in the exif data, you can enter the coordinates manually.
-   - **name**
-     - The `name` key should be the full and capitalised qoute of the actual artwork.
    - **authors**
      - The `author` key is a list of authors. It must at least contain **SPYO**.
    - **image**
