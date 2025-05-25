@@ -821,6 +821,14 @@
     ],
     "image": "static/images/POLiTiSK HYKLERi.webp"
   },
+  "PROFiTMAGERi": {
+    "lat": 55.644478,
+    "lng": 12.570383,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/profitmageri.jpg"
+  },
   "PSEUDO DiT LiV ER RØV SKOD": {
     "lat": 55.690506,
     "lng": 12.55555,
@@ -829,6 +837,14 @@
       "SMOAT"
     ],
     "image": "./static/images/pseudo-dit-liv-er-roev-skod.jpg"
+  },
+  "REFUGEES WELCOME": {
+    "lat": 55.688131,
+    "lng": 12.554289,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/refugees-welcome.jpg"
   },
   "RESSOURCEFAtti ANDENRANDGSBORGER": {
     "lat": 55.699795,
