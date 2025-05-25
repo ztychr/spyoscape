@@ -738,6 +738,14 @@
     ],
     "image": "static/images/normen-trives.jpg"
   },
+  "ORDNUNG MUSS SEiN!": {
+    "lat": 55.692228,
+    "lng": 12.563014,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/ordnung-muss-sein.jpg"
+  },
   "OUTRAGED": {
     "lat": 55.711875,
     "lng": 12.553503,
