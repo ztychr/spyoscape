@@ -90,6 +90,14 @@
     ],
     "image": "static/images/BLEV KASSiFiCERET SOM UTiLPASSET DET NU MiT STÆRKEste GruNDLAG.webp"
   },
+  "BOLiG PRiSER": {
+    "lat": 55.6673412,
+    "lng": 12.6245399,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/bolig-priser.jpeg"
+  },
   "BRÆND LORTET AF!": {
     "lat": 55.657492,
     "lng": 12.556389,
@@ -212,6 +220,14 @@
       "SPYO"
     ],
     "image": "static/images/DENNE MODEL FÅS OSS i SANDFARVET.webp"
+  },
+  "DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE": {
+    "lat": 55.6686642,
+    "lng": 12.6088969,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/der-burde-vaere-en-graense-for-hvor-meget-mennesker-maa-eje.jpeg"
   },
   "DESTROY ZiONiSM": {
     "lat": 55.694614,
@@ -342,6 +358,15 @@
     ],
     "image": "static/images/fatness-world.jpg"
   },
+  "FORBLiV NAiV": {
+    "lat": 55.6695573,
+    "lng": 12.6209853,
+    "authors": [
+      "SPYO",
+      "WHO"
+    ],
+    "image": "static/images/forbliv-naiv.jpeg"
+  },
   "FORBRUGSFESTEN": {
     "lat": 55.657069,
     "lng": 12.555044,
@@ -375,6 +400,15 @@
       "PUM"
     ],
     "image": "static/images/gaza.jpg"
+  },
+  "GENOCiDE": {
+    "lat": 55.6681874,
+    "lng": 12.6086334,
+    "authors": [
+      "SPYO",
+      "WHO"
+    ],
+    "image": "static/images/genocide.jpeg"
   },
   "GlÆDLiG ANGST OG GO": {
     "lat": 55.706356,
@@ -1081,39 +1115,5 @@
       "JEEP"
     ],
     "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
-  },
-  "GENOCiDE": {
-    "lat": 55.6681874,
-    "lng": 12.6086334,
-    "authors": [
-      "SPYO",
-      "WHO"
-    ],
-    "image": "static/images/genocide.jpeg"
-  },
-  "FORBLiV NAiV": {
-    "lat": 55.6695573,
-    "lng": 12.6209853,
-    "authors": [
-      "SPYO",
-      "WHO"
-    ],
-    "image": "static/images/forbliv-naiv.jpeg"
-  },
-  "DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE": {
-    "lat": 55.6686642,
-    "lng": 12.6088969,
-    "authors": [
-      "SPYO"
-    ],
-    "image": "static/images/der-burde-vaere-en-graense-for-hvor-meget-mennesker-maa-eje.jpeg"
-  },
-  "BOLiG PRiSER": {
-    "lat": 55.6673412,
-    "lng": 12.6245399,
-    "authors": [
-      "SPYO"
-    ],
-    "image": "static/images/bolig-priser.jpeg"
   }
 }
