@@ -18,7 +18,7 @@ To add your submission to the project, follow the following procedure.
    - Do you best to exclude the faces of bypassers when taking the photo.
 2. run the enroll.py script with your image as the only argument and enter the data prompted for.
 
-**E.g.:**
+**For example:**
 
 ```shell
 (venv) user@host:~/spyoscape$ python enroll.py static/images/the-beauty-of-ethnicity.jpg 
