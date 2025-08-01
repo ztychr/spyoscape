@@ -25,7 +25,7 @@ def prompt_for_coordinates():
         lat_str, lon_str = map(str.strip, coord_input.split(","))
         return float(lat_str), float(lon_str)
     except (ValueError, IndexError):
-        print("Invalid input. Please enter coordinates as: 40.23123, 12.21314")
+        print("Invalid input. Please enter coordinates as: 55.123123, 12.123123")
         sys.exit(1)
 
 def clean_and_resize_image(image_path, width=1920):
@@ -59,7 +59,7 @@ def main():
     with open(filename, 'rb') as image_file:
         image = ExifImage(image_file)
 
-        if image.has_exif and image.gps_latitude and image.gps_longitude:
+        try:
             lat_deg, lat_sec, lat_min = image.gps_latitude
             lat_ref = image.gps_latitude_ref
 
@@ -71,7 +71,7 @@ def main():
 
             lat_dec_deg = to_dec_deg(lat_formatted)
             lon_dec_deg = to_dec_deg(lon_formatted)
-        else:
+        except:
             print("No GPS data found in the image.")
             lat_dec_deg, lon_dec_deg = prompt_for_coordinates()
 
