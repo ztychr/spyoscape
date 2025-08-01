@@ -1,4 +1,10 @@
 {
+  "#FiND FARHAD": {
+    "lat": 55.669377,
+    "lng": 12.610349,
+    "authors": [],
+    "image": "static/images/#FiND FARHAD.webp"
+  },
   "ABOVe SOCiAL ACCEPTED NORMALiTiES": {
     "lat": 55.692549,
     "lng": 12.535942,
@@ -30,6 +36,12 @@
       "SPYO"
     ],
     "image": "static/images/all-you-need-is-less-of-everything.jpg"
+  },
+  "ANALOG BØRN": {
+    "lat": 55.668512,
+    "lng": 12.60929,
+    "authors": [],
+    "image": "static/images/ANALOG BØRN.webp"
   },
   "ANALOGBARN UDEN MiT iD": {
     "lat": 55.6690447,
@@ -74,6 +86,12 @@
     ],
     "image": "static/images/artistic-integrity-you-are....jpg"
   },
+  "BET U DiDNT SEE ME!": {
+    "lat": 55.668461,
+    "lng": 12.609588,
+    "authors": [],
+    "image": "static/images/BET U DiDNT SEE ME!.webp"
+  },
   "BITE THE HAND THAT FEEDS YOU": {
     "lat": 55.662945,
     "lng": 12.52458,
@@ -81,6 +99,12 @@
       "SPYO"
     ],
     "image": "static/images/BITE THE HAND THAT FEEDS YOU.webp"
+  },
+  "BITE THE HAND.THAT FEEDS YOU": {
+    "lat": 55.663239,
+    "lng": 12.524902,
+    "authors": [],
+    "image": "static/images/BITE THE HAND.THAT FEEDS YOU.webp"
   },
   "BLEV KASSiFiCERET SOM UTiLPASSET DET NU MiT STÆRKEste GruNDLAG": {
     "lat": 55.70015,
@@ -115,12 +139,10 @@
     "image": "static/images/bureaukratisk-skillelinie..jpg"
   },
   "CAPiTALiSM HAS NO DEMOCRACY": {
-    "lat": 55.668254,
-    "lng": 12.541757,
-    "authors": [
-      "SPYO"
-    ],
-    "image": "static/images/capitalism-has-no-democracy.jpg"
+    "lat": 55.658949,
+    "lng": 12.502683,
+    "authors": [],
+    "image": "static/images/CAPiTALiSM HAS NO DEMOCRACY.webp"
   },
   "CAPiTALiSM iS SHORT-TERMED": {
     "lat": 55.654594,
@@ -138,6 +160,12 @@
     ],
     "image": "static/images/capitalistic-democracy.jpg"
   },
+  "CASH RUiNS EVERYTHiNG AROUND ME": {
+    "lat": 55.669306,
+    "lng": 12.610307,
+    "authors": [],
+    "image": "static/images/CASH RUiNS EVERYTHiNG AROUND ME.webp"
+  },
   "CHR.BORG=PARADiSE HOTEL": {
     "lat": 55.683669,
     "lng": 12.563781,
@@ -146,6 +174,12 @@
       "SAZER"
     ],
     "image": "static/images/chr.borg-er-lig-paradise-hotel.jpg"
+  },
+  "CiTRONMANE EKSTRA BLADET-STØT KULTUREN": {
+    "lat": 55.658301,
+    "lng": 12.49729,
+    "authors": [],
+    "image": "static/images/CiTRONMANE EKSTRA BLADET-STØT KULTUREN.webp"
   },
   "COMMUNiCATiNG THRU WALLS...": {
     "lat": 55.690506,
@@ -222,12 +256,10 @@
     "image": "static/images/DENNE MODEL FÅS OSS i SANDFARVET.webp"
   },
   "DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE": {
-    "lat": 55.6686642,
-    "lng": 12.6088969,
-    "authors": [
-      "SPYO"
-    ],
-    "image": "static/images/der-burde-vaere-en-graense-for-hvor-meget-mennesker-maa-eje.jpeg"
+    "lat": 55.66876,
+    "lng": 12.607839,
+    "authors": [],
+    "image": "static/images/DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE.webp"
   },
   "DESTROY ZiONiSM": {
     "lat": 55.694614,
@@ -277,6 +309,14 @@
     ],
     "image": "static/images/dine-problemer-har-ingen-problemer.jpg"
   },
+  "DiSCUSTiNG HABiT!": {
+    "lat": 55.707783,
+    "lng": 12.555975,
+    "authors": [
+      "SPYO"
+    ],
+    "image": "static/images/discusting-habit.jpeg"
+  },
   "Dit VÆRD StÅR PÅ DiN LØNSEDDEL": {
     "lat": 55.613786,
     "lng": 12.510473,
@@ -318,6 +358,12 @@
     ],
     "image": "static/images/eat-the-rich.jpg"
   },
+  "EDUCATE THIS": {
+    "lat": 55.689279,
+    "lng": 12.560393,
+    "authors": [],
+    "image": "static/images/EDUCATE THIS.webp"
+  },
   "ER PENGE DYNAMiSKE": {
     "lat": 55.664269,
     "lng": 12.576508,
@@ -358,6 +404,12 @@
     ],
     "image": "static/images/fatness-world.jpg"
   },
+  "FiLLiNG OUT THE BLANKS iN SOCiETY": {
+    "lat": 55.669108,
+    "lng": 12.608534,
+    "authors": [],
+    "image": "static/images/FiLLiNG OUT THE BLANKS iN SOCiETY.webp"
+  },
   "FORBLiV NAiV": {
     "lat": 55.6695573,
     "lng": 12.6209853,
@@ -374,6 +426,12 @@
       "SPYO"
     ],
     "image": "static/images/forbrugsfesten.jpg"
+  },
+  "FORGÆLDET": {
+    "lat": 55.656675,
+    "lng": 12.636469,
+    "authors": [],
+    "image": "static/images/FORGÆLDET.webp"
   },
   "FREE PALESTiNE": {
     "lat": 55.684922,
@@ -491,6 +549,12 @@
     ],
     "image": "static/images/hovedloest-overforbrug.jpg"
   },
+  "HUMAN DESRVE EXTiNCTiON !": {
+    "lat": 55.669128,
+    "lng": 12.608869,
+    "authors": [],
+    "image": "static/images/HUMAN DESRVE EXTiNCTiON !.webp"
+  },
   "HUMANS DEHUMANiZE": {
     "lat": 55.697901,
     "lng": 12.497877,
@@ -547,6 +611,12 @@
       "DEPON"
     ],
     "image": "static/images/imperialistic-mindfulness.jpg"
+  },
+  "jEG BETRAGTER DETTE SO...": {
+    "lat": 55.669184,
+    "lng": 12.609955,
+    "authors": [],
+    "image": "static/images/jEG BETRAGTER DETTE SO....webp"
   },
   "jEG ER SÆRDELES OMSTiLLiNGSPARAT": {
     "lat": 55.696828,
@@ -625,6 +695,12 @@
     ],
     "image": "static/images/kofod-skole-her-er-der-plads-til-dig-og-mig.jpeg"
   },
+  "KRiG&KAPiTAL": {
+    "lat": 55.669034,
+    "lng": 12.610087,
+    "authors": [],
+    "image": "static/images/KRiG&KAPiTAL.webp"
+  },
   "KUNSt&KULtUR FUNGERE BEDSt UNDER ORDNEDE FORHOLD, HiLSEN StAt&KOMMUNE": {
     "lat": 55.65905,
     "lng": 12.543878,
@@ -658,12 +734,10 @@
     "image": "static/images/leave-noone-behind.jpg"
   },
   "LETS ALL jUST BE NORMAL": {
-    "lat": 55.686564,
-    "lng": 12.551086,
-    "authors": [
-      "SPYO"
-    ],
-    "image": "static/images/politiciansucks.jpg"
+    "lat": 55.6989,
+    "lng": 12.5767,
+    "authors": [],
+    "image": "static/images/LETS ALL jUST BE NORMAL.webp"
   },
   "LiSTEN TO GRETA THUNBERG": {
     "lat": 55.6869656,
@@ -696,6 +770,12 @@
       "SPYO"
     ],
     "image": "static/images/medmenneskelighed.jpg"
+  },
+  "MENNESKER! KA iK GØRES OP I ... PENGE!": {
+    "lat": 55.657981,
+    "lng": 12.502597,
+    "authors": [],
+    "image": "static/images/MENNESKER! KA iK GØRES OP I ... PENGE!.webp"
   },
   "MENNESKET FØR PrOFiT": {
     "lat": 55.654961,
@@ -855,6 +935,12 @@
     ],
     "image": "static/images/POLiTiSK HYKLERi.webp"
   },
+  "PROFiT ORiENTERET RØVSNAK": {
+    "lat": 55.658445,
+    "lng": 12.497482,
+    "authors": [],
+    "image": "static/images/PROFiT ORiENTERET RØVSNAK.webp"
+  },
   "PROFiTMAGERi": {
     "lat": 55.644478,
     "lng": 12.570383,
@@ -889,12 +975,12 @@
     "image": "static/images/RESSOURCEFAtti ANDENRANDGSBORGER.webp"
   },
   "SAMFUNDSSViND": {
-    "lat": 55.706613,
-    "lng": 12.557089,
+    "lat": 55.707461,
+    "lng": 12.555983,
     "authors": [
       "SPYO"
     ],
-    "image": "static/images/SAMFUNDSSViND.webp"
+    "image": "static/images/samfundssvind.jpeg"
   },
   "SASS DEN OP FRA SLAP": {
     "lat": 55.698511,
@@ -928,6 +1014,12 @@
     ],
     "image": "static/images/selvfed-isme.jpg"
   },
+  "SMÅBORGERLiGHEDEN?": {
+    "lat": 55.642494,
+    "lng": 12.50319,
+    "authors": [],
+    "image": "static/images/SMÅBORGERLiGHEDEN?.webp"
+  },
   "SMÅFACiSTiSK LEDELSE": {
     "lat": 55.685128,
     "lng": 12.559483,
@@ -943,6 +1035,12 @@
       "SPYO"
     ],
     "image": "static/images/smaafacistist-og-kulturloest.jpg"
+  },
+  "SPYO*SULT THE ORPHANS": {
+    "lat": 55.666406,
+    "lng": 12.515525,
+    "authors": [],
+    "image": "static/images/SPYO*SULT THE ORPHANS.webp"
   },
   "SPYO-StREEt ARtENS tESSA": {
     "lat": 55.7003787,
@@ -960,6 +1058,12 @@
     ],
     "image": "static/images/stadig-uden-e-boks-og-nem-id.jpg"
   },
+  "STATEN ER ALTÆDENDE": {
+    "lat": 55.722717,
+    "lng": 12.539788,
+    "authors": [],
+    "image": "static/images/STATEN ER ALTÆDENDE.webp"
+  },
   "STAVNSBUNDET": {
     "lat": 55.697753,
     "lng": 12.498571,
@@ -975,6 +1079,12 @@
       "SPYO"
     ],
     "image": "static/images/stenbroens-buttede-afrodite.jpeg"
+  },
+  "STiGMATiZED": {
+    "lat": 55.660328,
+    "lng": 12.494448,
+    "authors": [],
+    "image": "static/images/STiGMATiZED.webp"
   },
   "STiNKER AF GENTRiFiCERiNG!": {
     "lat": 55.706784,
@@ -1024,6 +1134,12 @@
     ],
     "image": "static/images/SYG NOK.webp"
   },
+  "SYSTEMATISK": {
+    "lat": 55.669143,
+    "lng": 12.608413,
+    "authors": [],
+    "image": "static/images/SYSTEMATISK.webp"
+  },
   "TAK MAGtHAVERNE.. FOR At HOLDE DiG BESKÆFtiGEt": {
     "lat": 55.668428,
     "lng": 12.542317,
@@ -1031,6 +1147,12 @@
       "SPYO"
     ],
     "image": "./static/images/tak-magthaverne..-for-at-holde-dig-beskaeftiget.jpg"
+  },
+  "TELEVISED GENOCIDE": {
+    "lat": 55.669456,
+    "lng": 12.610234,
+    "authors": [],
+    "image": "static/images/TELEVISED GENOCIDE.webp"
   },
   "THE CORE OF CAPiTALiSM iS GREED": {
     "lat": 55.63022,
@@ -1055,6 +1177,12 @@
       "SPYO"
     ],
     "image": "./static/images/this-may-not-reflect-real-live-situations.jpg"
+  },
+  "TiLGiVELSE TiLBLiVELSE": {
+    "lat": 55.647354,
+    "lng": 12.540456,
+    "authors": [],
+    "image": "static/images/TiLGiVELSE TiLBLiVELSE.webp"
   },
   "TRANS RIGHTS COMiNG TO A THEATRE NEAR U": {
     "lat": 55.706579,
@@ -1089,6 +1217,12 @@
     ],
     "image": "static/images/TURN OFF THE MAiN STREAM MEDiA!.webp"
   },
+  "UDEN KLiPPEDE ViNGER": {
+    "lat": 55.671489,
+    "lng": 12.591306,
+    "authors": [],
+    "image": "static/images/UDEN KLiPPEDE ViNGER.webp"
+  },
   "UMENNESKELiGT": {
     "lat": 55.707394,
     "lng": 12.521897,
@@ -1096,6 +1230,18 @@
       "SPYO"
     ],
     "image": "static/images/umenneskeligt.jpg"
+  },
+  "UNALiViNG MYSELF SLOWLY WiTH PAiNT": {
+    "lat": 55.668912,
+    "lng": 12.609099,
+    "authors": [],
+    "image": "static/images/UNALiViNG MYSELF SLOWLY WiTH PAiNT.webp"
+  },
+  "UNGOVERNABLE": {
+    "lat": 55.654827,
+    "lng": 12.51136,
+    "authors": [],
+    "image": "static/images/UNGOVERNABLE.webp"
   },
   "UPARLAMENTARiSK ÅNDEHUL": {
     "lat": 55.686564,
@@ -1116,172 +1262,10 @@
     ],
     "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
   },
-  "ANALOG BØRN": {
-    "lat": 55.668512,
-    "lng": 12.609290,
-    "authors": [],
-    "image": "static/images/ANALOG BØRN.webp"
-  },
-  "BET U DiDNT SEE ME!": {
-    "lat": 55.668461,
-    "lng": 12.609588,
-    "authors": [],
-    "image": "static/images/BET U DiDNT SEE ME!.webp"
-  },
-  "BITE THE HAND.THAT FEEDS YOU": {
-    "lat": 55.663239,
-    "lng": 12.524902,
-    "authors": [],
-    "image": "static/images/BITE THE HAND.THAT FEEDS YOU.webp"
-  },
-  "CAPiTALiSM HAS NO DEMOCRACY": {
-    "lat": 55.658949,
-    "lng": 12.502683,
-    "authors": [],
-    "image": "static/images/CAPiTALiSM HAS NO DEMOCRACY.webp"
-  },
-  "CASH RUiNS EVERYTHiNG AROUND ME": {
-    "lat": 55.669306,
-    "lng": 12.610307,
-    "authors": [],
-    "image": "static/images/CASH RUiNS EVERYTHiNG AROUND ME.webp"
-  },
-  "CiTRONMANE EKSTRA BLADET-STØT KULTUREN": {
-    "lat": 55.658301,
-    "lng": 12.497290,
-    "authors": [],
-    "image": "static/images/CiTRONMANE EKSTRA BLADET-STØT KULTUREN.webp"
-  },
-  "DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE": {
-    "lat": 55.668760,
-    "lng": 12.607839,
-    "authors": [],
-    "image": "static/images/DER BURDE VÆRE EN GRÆNSE FOR HVOR MEGET MENNESKER MÅ EjE.webp"
-  },
-  "EDUCATE THIS": {
-    "lat": 55.689279,
-    "lng": 12.560393,
-    "authors": [],
-    "image": "static/images/EDUCATE THIS.webp"
-  },
-  "FiLLiNG OUT THE BLANKS iN SOCiETY": {
-    "lat": 55.669108,
-    "lng": 12.608534,
-    "authors": [],
-    "image": "static/images/FiLLiNG OUT THE BLANKS iN SOCiETY.webp"
-  },
-  "#FiND FARHAD": {
-    "lat": 55.669377,
-    "lng": 12.610349,
-    "authors": [],
-    "image": "static/images/#FiND FARHAD.webp"
-  },
-  "FORGÆLDET": {
-    "lat": 55.656675,
-    "lng": 12.636469,
-    "authors": [],
-    "image": "static/images/FORGÆLDET.webp"
-  },
-  "HUMAN DESRVE EXTiNCTiON !": {
-    "lat": 55.669128,
-    "lng": 12.608869,
-    "authors": [],
-    "image": "static/images/HUMAN DESRVE EXTiNCTiON !.webp"
-  },
-  "jEG BETRAGTER DETTE SO...": {
-    "lat": 55.669184,
-    "lng": 12.609955,
-    "authors": [],
-    "image": "static/images/jEG BETRAGTER DETTE SO....webp"
-  },
-  "KRiG&KAPiTAL": {
-    "lat": 55.669034,
-    "lng": 12.610087,
-    "authors": [],
-    "image": "static/images/KRiG&KAPiTAL.webp"
-  },
-  "MENNESKER! KA iK GØRES OP I ... PENGE!": {
-    "lat": 55.657981,
-    "lng": 12.502597,
-    "authors": [],
-    "image": "static/images/MENNESKER! KA iK GØRES OP I ... PENGE!.webp"
-  },
-  "PROFiT ORiENTERET RØVSNAK": {
-    "lat": 55.658445,
-    "lng": 12.497482,
-    "authors": [],
-    "image": "static/images/PROFiT ORiENTERET RØVSNAK.webp"
-  },
-  "SMÅBORGERLiGHEDEN?": {
-    "lat": 55.642494,
-    "lng": 12.503190,
-    "authors": [],
-    "image": "static/images/SMÅBORGERLiGHEDEN?.webp"
-  },
-  "SPYO*SULT THE ORPHANS": {
-    "lat": 55.666406,
-    "lng": 12.515525,
-    "authors": [],
-    "image": "static/images/SPYO*SULT THE ORPHANS.webp"
-  },
-  "STATEN ER ALTÆDENDE": {
-    "lat": 55.722717,
-    "lng": 12.539788,
-    "authors": [],
-    "image": "static/images/STATEN ER ALTÆDENDE.webp"
-  },
-  "STiGMATiZED": {
-    "lat": 55.660328,
-    "lng": 12.494448,
-    "authors": [],
-    "image": "static/images/STiGMATiZED.webp"
-  },
-  "SYSTEMATISK": {
-    "lat": 55.669143,
-    "lng": 12.608413,
-    "authors": [],
-    "image": "static/images/SYSTEMATISK.webp"
-  },
-  "TELEVISED GENOCIDE": {
-    "lat": 55.669456,
-    "lng": 12.610234,
-    "authors": [],
-    "image": "static/images/TELEVISED GENOCIDE.webp"
-  },
-  "TiLGiVELSE TiLBLiVELSE": {
-    "lat": 55.647354,
-    "lng": 12.540456,
-    "authors": [],
-    "image": "static/images/TiLGiVELSE TiLBLiVELSE.webp"
-  },
-  "UDEN KLiPPEDE ViNGER": {
-    "lat": 55.671489,
-    "lng": 12.591306,
-    "authors": [],
-    "image": "static/images/UDEN KLiPPEDE ViNGER.webp"
-  },
-  "UNALiViNG MYSELF SLOWLY WiTH PAiNT": {
-    "lat": 55.668912,
-    "lng": 12.609099,
-    "authors": [],
-    "image": "static/images/UNALiViNG MYSELF SLOWLY WiTH PAiNT.webp"
-  },
-  "UNGOVERNABLE": {
-    "lat": 55.654827,
-    "lng": 12.511360,
-    "authors": [],
-    "image": "static/images/UNGOVERNABLE.webp"
-  },
   "YOUR MiSERY StARtS WiTH CAPitALiSM": {
     "lat": 55.658506,
     "lng": 12.499971,
     "authors": [],
     "image": "static/images/YOUR MiSERY StARtS WiTH CAPitALiSM.webp"
-  },
-  "LETS ALL jUST BE NORMAL": {
-    "lat": 55.6989,
-    "lng": 12.5767,
-    "authors": [],
-    "image": "static/images/LETS ALL jUST BE NORMAL.webp"
   }
 }
