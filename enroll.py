@@ -57,9 +57,8 @@ def main():
     authors = [author.strip() for author in authors_input.split(",") if author.strip()] if authors_input else ["SPYO"]
 
     with open(filename, 'rb') as image_file:
-        image = ExifImage(image_file)
-
         try:
+            image = ExifImage(image_file)
             lat_deg, lat_sec, lat_min = image.gps_latitude
             lat_ref = image.gps_latitude_ref
 
