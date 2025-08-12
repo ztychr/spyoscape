@@ -412,6 +412,14 @@
         ],
         "image": "static/images/FAKE SOCiAL MEDiA PERSONALiTY.webp"
     },
+    "FALASTiN": {
+        "lat": 55.689518,
+        "lng": 12.544724,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/falastin.jpg"
+    },
     "FAtNESS WORLD": {
         "lat": 55.698572,
         "lng": 12.535864,
@@ -916,6 +924,14 @@
             "SPYO"
         ],
         "image": "static/images/overrendt-af-kultur-d\u00f8de-bonder\u00f8ve.webp"
+    },
+    "PALESTiNE": {
+        "lat": 55.700212,
+        "lng": 12.536908,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/palestine.jpg"
     },
     "PALESTINE WILL BE FREE": {
         "lat": 55.702919,
