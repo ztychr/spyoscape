@@ -277,6 +277,14 @@
         ],
         "image": "static/images/DESTROY ZiONiSM.webp"
     },
+    "DEt HER ER Mit DU KA BEHOLDE RESTEN!": {
+        "lat": 55.7071,
+        "lng": 12.52397,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/det-her-er-mit-du-kan-beholde-resten.jpeg"
+    },
     "DEt SKA CHEFEN iK BE OM!": {
         "lat": 55.668254,
         "lng": 12.541757,
@@ -950,6 +958,14 @@
             "SPYO"
         ],
         "image": "static/images/politik-er-lig-poels.jpg"
+    },
+    "POLiTiKERE ER TYRANER": {
+        "lat": 55.707886,
+        "lng": 12.52789,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/politikere-er-tyraner.jpeg"
     },
     "POLiTiSK HYKLERi": {
         "lat": 55.699843,
