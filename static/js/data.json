@@ -5,6 +5,14 @@
         "authors": [],
         "image": "static/images/%23FiND FARHAD.webp"
     },
+    "AARON BUSHNELL": {
+        "lat": 55.708503,
+        "lng": 12.551461,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/AARON BUSHNELL.webp"
+    },
     "ABOVe SOCiAL ACCEPTED NORMALiTiES": {
         "lat": 55.692549,
         "lng": 12.535942,
@@ -232,6 +240,14 @@
             "SPYO"
         ],
         "image": "static/images/de-magtfuldes-daemonkrati.jpg"
+    },
+    "DEFEND ROJAVA": {
+        "lat": 55.6869,
+        "lng": 12.551,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/DEFEND ROJAVA.webp"
     },
     "DEFiNE FREEDOM": {
         "lat": 55.700823,
@@ -468,6 +484,14 @@
         ],
         "image": "static/images/kbhs-kommune-din-kaerlige-krykstok.jpg"
     },
+    "FUK DiN KARRiERE BORGER Fj\u00c6S...": {
+        "lat": 55.707889,
+        "lng": 12.552255,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/FUK DiN KARRiERE BORGER Fj\u00c6S....webp"
+    },
     "GAZA": {
         "lat": 55.685536,
         "lng": 12.559842,
@@ -620,6 +644,14 @@
             "SPYO"
         ],
         "image": "static/images/hvorfor-er-frihed-ik-en-global-rettighed.jpg"
+    },
+    "HVORFOR G\u00d8R DU, SOM DU G\u00d8R?": {
+        "lat": 55.712319,
+        "lng": 12.551362,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/HVORFOR%20G%C3%98R%20DU%2C%20SOM%20DU%20G%C3%98R%3F.webp"
     },
     "iM GAY": {
         "lat": 55.66658,
@@ -1024,6 +1056,14 @@
         ],
         "image": "static/images/paa-farten.jpg"
     },
+    "REFU GEES W EL CO ME": {
+        "lat": 55.6892,
+        "lng": 12.5447,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/REFU GEES W EL CO ME.webp"
+    },
     "REFUGEES WELCOME": {
         "lat": 55.688131,
         "lng": 12.554289,
@@ -1138,6 +1178,14 @@
         "authors": [],
         "image": "static/images/STATEN ER ALT\u00c6DENDE.webp"
     },
+    "STATSANERKENDT LORT DER LiGNER KUNST": {
+        "lat": 55.70602,
+        "lng": 12.543485,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/STATSANERKENDT LORT DER LiGNER KUNST.webp"
+    },
     "STAVNSBUNDET": {
         "lat": 55.697753,
         "lng": 12.498571,
@@ -1175,6 +1223,14 @@
             "SPYO"
         ],
         "image": "static/images/hvid-hetro-mand-blind.jpg"
+    },
+    "STOP JYDEN": {
+        "lat": 55.7052,
+        "lng": 12.5273,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/STOP JYDEN.webp"
     },
     "STOP MAKiNG RiCH PEOPLE iMPORTANT": {
         "lat": 55.686894,
@@ -1343,6 +1399,14 @@
             "JEEP"
         ],
         "image": "static/images/watch-ur-live-vanish-from-capitalism.webp"
+    },
+    "WHEN WILL I GET LAID?": {
+        "lat": 55.7018,
+        "lng": 12.534,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/WHEN WILL I GET LAID?.webp"
     },
     "YOUR MiSERY StARtS WiTH CAPitALiSM": {
         "lat": 55.658506,
