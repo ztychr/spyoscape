@@ -6,6 +6,7 @@ import json
 import os
 from exif import Image as ExifImage
 from PIL import Image as PILImage
+import urllib.parse
 
 DATA_FILE = 'static/js/data.json'
 
@@ -77,12 +78,15 @@ def main():
     # Resize and strip EXIF
     clean_and_resize_image(filename)
 
+    # URL encode symbols in image filename to ensure image loads
+    filename_encoded = urllib.parse.quote(filename)
+
     new_entry = {
         quote: {
             "lat": round(lat_dec_deg, 6),
             "lng": round(lon_dec_deg, 6),
             "authors": authors,
-            "image": filename
+            "image": filename_encoded
         }
     }
 
