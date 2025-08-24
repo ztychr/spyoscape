@@ -108,6 +108,14 @@
         "authors": [],
         "image": "static/images/BET U DiDNT SEE ME!.webp"
     },
+    "BEViSMAtERiALE": {
+        "lat": 55.689067,
+        "lng": 12.481683,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/bevismateriale.jpg"
+    },
     "BITE THE HAND THAT FEEDS YOU": {
         "lat": 55.662945,
         "lng": 12.52458,
@@ -1407,6 +1415,14 @@
             "SPYO"
         ],
         "image": "static/images/WHEN WILL I GET LAID?.webp"
+    },
+    "WORLD ECONOMiC FORUM": {
+        "lat": 55.679683,
+        "lng": 12.549783,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/world-economic-forum.jpg"
     },
     "YOUR MiSERY StARtS WiTH CAPitALiSM": {
         "lat": 55.658506,
