@@ -483,6 +483,14 @@
         ],
         "image": "static/images/free-palestine.jpg"
     },
+    "FRyGT BEN\u00c6GTELSE KONTROL": {
+        "lat": 55.652986,
+        "lng": 12.539856,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/frygt-benaegtelse-kontrol.jpg"
+    },
     "FUCK FASCISM": {
         "lat": 55.686819,
         "lng": 12.551469,
@@ -926,6 +934,14 @@
         ],
         "image": "static/images/birdsfmk-spyo-non-serviam.jpg"
     },
+    "NONFiGURATiVT": {
+        "lat": 55.683827,
+        "lng": 12.548286,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/nonfigurativt.jpg"
+    },
     "NORM CONSUMiNG ROBOtS WORSHiPPiNG CAPitALiSM": {
         "lat": 55.694614,
         "lng": 12.535879,
@@ -1033,11 +1049,21 @@
         ],
         "image": "static/images/POLiTiSK HYKLERi.webp"
     },
+    "PRiVAT EjENDOM": {
+        "lat": 55.704784,
+        "lng": 12.502959,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/privat-ejendom.jpg"
+    },
     "PROFiT ORiENTERET R\u00d8VSNAK": {
-        "lat": 55.658445,
-        "lng": 12.497482,
-        "authors": [],
-        "image": "static/images/PROFiT ORiENTERET R\u00d8VSNAK.webp"
+        "lat": 55.658564,
+        "lng": 12.497506,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/profit-orienteret-roevsnak.jpg"
     },
     "PROFiTMAGERi": {
         "lat": 55.644478,
@@ -1095,6 +1121,15 @@
             "SPYO"
         ],
         "image": "static/images/samfundssvind.jpeg"
+    },
+    "SAMMEN HVEr FOr SiG": {
+        "lat": 55.657172,
+        "lng": 12.552817,
+        "authors": [
+            "SULT",
+            "SPYO"
+        ],
+        "image": "static/images/sammen-hver-for-sig.jpg"
     },
     "SASS DEN OP FRA SLAP": {
         "lat": 55.698511,
@@ -1307,6 +1342,14 @@
             "SPYO"
         ],
         "image": "static/images/the-core-of-capitalism-is-greed.webp"
+    },
+    "tHE RAt RACE": {
+        "lat": 55.69899,
+        "lng": 12.54458,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/the-rat-race.jpeg"
     },
     "THIS MAKES ME FEEL ALiVE WHiLE U DEAD iNSiDE DECOLONZIE!": {
         "lat": 55.6683851,
