@@ -47,6 +47,17 @@ function focus_marker(marker, open=true) {
     }
 }
 
+function onMapClick(e) {
+    popup = L.popup();
+    popup
+        .setLatLng(e.latlng)
+        .setContent(`${e.latlng["lat"].toFixed(6).toString()}, ${e.latlng["lat"].toFixed(6).toString()}`)
+        .openOn(map);
+    console.log(e.latlng["lat"]);
+}
+
+map.on('click', onMapClick);
+
 map.on('popupopen', function (e) {
     const popupEl = e.popup.getElement();
     if (popupEl) {
@@ -134,4 +145,3 @@ fetch('static/js/data.json')
         var heat = L.heatLayer(artworks_heatmap_format, {radius: heatmap_radius}).addTo(heatmap_layer);
 
     });
-
