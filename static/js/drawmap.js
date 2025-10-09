@@ -51,7 +51,7 @@ function onMapClick(e) {
     popup = L.popup();
     popup
         .setLatLng(e.latlng)
-        .setContent(`${e.latlng["lat"].toFixed(6).toString()}, ${e.latlng["lat"].toFixed(6).toString()}`)
+        .setContent(`${e.latlng["lat"].toFixed(6).toString()}, ${e.latlng["lng"].toFixed(6).toString()}`)
         .openOn(map);
     console.log(e.latlng["lat"]);
 }
