@@ -1,8 +1,13 @@
 const map = L.map('map').setView([55.67, 12.56], 12, animate=false);
-const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+
+L.maplibreGL({
+    style: 'https://tiles.openfreemap.org/styles/liberty',
+}).addTo(map)
+
+/*const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);
+}).addTo(map);*/
 
 /* Add togglable layers */
 var marker_layer =  L.featureGroup();
@@ -18,8 +23,8 @@ var overlayMaps = {
 var layerControl = L.control.layers({},overlayMaps).addTo(map);
 
 /* Heatmap options */
-const heatmap_intensity = 35;
-const heatmap_radius = 15;
+const heatmap_intensity = 1000;
+const heatmap_radius = 20;
 
 var markers = {};
 
