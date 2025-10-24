@@ -44,12 +44,36 @@ li::before {
     height: 10px;
 }
 
-header img {
+header img.banner {
     display: block;
-    margin-left: auto;
     margin-right: auto;
     height: 10vh;
-    max-width: 80vw;
+    max-width: 60vw;
+}
+
+a.source-code img {
+    width: 40px;
+}
+
+a.source-code {
+    /*
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 15px;
+*/
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;;
+
 }
 
 .grid {
@@ -58,6 +82,7 @@ header img {
 
 .grid header {
     padding: 20px;
+    position: relative;
 }
 
 .grid > * {
@@ -141,6 +166,11 @@ a:hover {
         grid-template-rows: auto 1fr;
         height: 100vh;
     }
+
+    header img {
+        margin-left: auto;
+    }
+
 
     .grid > * {
         margin: 0;
