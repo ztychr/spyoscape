@@ -622,6 +622,14 @@
         ],
         "image": "static/images/hanne-reumert-ildsjael.jpg"
     },
+    "HAVING SELF ESTEEM": {
+        "lat": 55.687486,
+        "lng": 12.5546,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/having-self-esteem.jpg"
+    },
     "HELLERE DRiVERT END BUREAUKRAT": {
         "lat": 55.706371,
         "lng": 12.543951,
@@ -884,6 +892,15 @@
         ],
         "image": "static/images/listen-to-greta-thunberg.jpeg"
     },
+    "Lyt iK TiL DE VOKSNE! OVERHOVED": {
+        "lat": 55.6658,
+        "lng": 12.505842,
+        "authors": [
+            "SPYO",
+            "SULT"
+        ],
+        "image": "static/images/lyt-ik-til-de-voksne-overhoved.jpg"
+    },
     "MANGFOLDiGHED NU!": {
         "lat": 55.684878,
         "lng": 12.554564,
@@ -939,6 +956,14 @@
             "SPYO"
         ],
         "image": "static/images/METTE KA SLETTE.webp"
+    },
+    "MiGRANTES VALiENTES!!": {
+        "lat": 55.687789,
+        "lng": 12.555021,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/migrantes-valientes.jpg"
     },
     "NE TRAVAiLLEZ jAMAiS": {
         "lat": 55.655633,
@@ -1155,6 +1180,14 @@
             "SPYO"
         ],
         "image": "static/images/refugees-welcome.jpg"
+    },
+    "REMOVE POLiTiCiANS NOW!": {
+        "lat": 55.667106,
+        "lng": 12.513761,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/remove-politicians-now.jpg"
     },
     "RESSOURCEFAtti ANDENRANDGSBORGER": {
         "lat": 55.699795,
