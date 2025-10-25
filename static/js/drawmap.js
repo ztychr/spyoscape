@@ -24,9 +24,9 @@ var cluster_layer = L.markerClusterGroup({
     animate: true,
     spiderfyOnMaxZoom: false,
     disableClusteringAtZoom: 16, // must be 16 or else image view will close under cluster view as it zooms out
-    maxClusterRadius: 150,
-//    maxClusterRadius: function (zoom) {
-//        return 120 - (zoom * 5);}
+//    maxClusterRadius: 150,
+    maxClusterRadius: function (zoom) {
+        return 120 - (zoom * 5);}
 });
 
 marker_layer.addTo(map);
