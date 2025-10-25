@@ -20,19 +20,30 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 /* Add togglable layers */
 var marker_layer =  L.featureGroup();
 var heatmap_layer =  L.featureGroup();
+var cluster_layer = L.markerClusterGroup({
+    animate: true,
+    spiderfyOnMaxZoom: false,
+    disableClusteringAtZoom: 16, // must be 16 or else image view will close under cluster view as it zooms out
+    maxClusterRadius: 150,
+//    maxClusterRadius: function (zoom) {
+//        return 120 - (zoom * 5);}
+});
+
 marker_layer.addTo(map);
+// cluster_layer.addTo(map);
 // heatmap_layer.addTo(map);  // Disabled by default. toggleable by user
 
 /* Add the layer toggle menu in the top right corner */
 var overlayMaps = {
     "Artwork markers": marker_layer,
-    "Artwork heatmap": heatmap_layer
+    "Artwork heatmap": heatmap_layer,
+    "Artwork cluster": cluster_layer
 };
 var layerControl = L.control.layers({},overlayMaps).addTo(map);
 
 /* Heatmap options */
-const heatmap_intensity = 1000;
-const heatmap_radius = 20;
+const heatmap_intensity = 35;
+const heatmap_radius = 15;
 
 var markers = {};
 
@@ -119,7 +130,10 @@ fetch('static/js/data.json')
         var ul = document.getElementById('links');
 
         Object.entries(markersData).forEach(([name, markerData], index) => {
-            var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${name}` }).addTo(marker_layer).on('click', click_marker);;
+            var marker = L.marker([markerData.lat, markerData.lng], {icon: myIcon, title: `${name}` });
+            marker.addTo(marker_layer).on('click', click_marker);
+            marker.addTo(cluster_layer).on('click', click_marker);
+
             var authorsList = markerData.authors.join(', ');
 
             marker.bindPopup(`<img id="zoom-image-${index}" class="zoomable-img" src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
@@ -158,3 +172,4 @@ fetch('static/js/data.json')
         var heat = L.heatLayer(artworks_heatmap_format, {radius: heatmap_radius}).addTo(heatmap_layer);
 
     });
+
