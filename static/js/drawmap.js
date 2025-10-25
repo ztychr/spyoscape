@@ -2,19 +2,20 @@ const map = L.map('map', {
 /* attributionControl: false // disable default */
 }).setView([55.67, 12.56], 12, animate=false);
 
+/*
 L.maplibreGL({
     style: 'https://tiles.openfreemap.org/styles/liberty',
 }).addTo(map)
 
-
-/*L.control.attribution({
+L.control.attribution({
   prefix: false,
-}).addAttribution('© OpenStreetMap contributors').addTo(map);/*
+}).addAttribution('© OpenStreetMap contributors').addTo(map);
+*/
 
-/*const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);*/
+}).addTo(map);
 
 /* Add togglable layers */
 var marker_layer =  L.featureGroup();
