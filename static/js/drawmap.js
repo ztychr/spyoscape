@@ -35,11 +35,14 @@ marker_layer.addTo(map);
 
 /* Add the layer toggle menu in the top right corner */
 var overlayMaps = {
-    "Artwork markers": marker_layer,
-    "Artwork heatmap": heatmap_layer,
-    "Artwork cluster": cluster_layer
+    "Markers": marker_layer,
+    "Heatmap": heatmap_layer,
+    "Cluster": cluster_layer
 };
-var layerControl = L.control.layers({},overlayMaps).addTo(map);
+
+var layerControl = L.control.layers({},overlayMaps,{
+    collapsed: false,
+}).addTo(map);
 
 /* Heatmap options */
 const heatmap_intensity = 35;
