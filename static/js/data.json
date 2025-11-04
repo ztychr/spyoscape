@@ -440,6 +440,14 @@
         ],
         "image": "static/images/everybody-wants-to-be-an-artist.jpg"
     },
+    "EVOLUTiON iN REVERSE": {
+        "lat": 55.700442,
+        "lng": 12.536506,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/evolution-in-reverse.jpg"
+    },
     "FAKE SOCiAL MEDiA PERSONALiTY": {
         "lat": 55.689805,
         "lng": 12.563156,
@@ -1270,6 +1278,14 @@
         ],
         "image": "static/images/smaafacistist-og-kulturloest.jpg"
     },
+    "SOVEPiLLEN": {
+        "lat": 55.703022,
+        "lng": 12.534442,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/sovepillen.jpg"
+    },
     "SPYO-StREEt ARtENS tESSA": {
         "lat": 55.7003787,
         "lng": 12.5336687,
@@ -1571,6 +1587,14 @@
             "SPYO"
         ],
         "image": "static/images/world-economic-forum.jpg"
+    },
+    "YOU BREAK iT YOU BUY iT": {
+        "lat": 55.703019,
+        "lng": 12.534161,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/you-break-it-you-buy-it.jpg"
     },
     "YOUR MiSERY StARtS WiTH CAPitALiSM": {
         "lat": 55.658506,
