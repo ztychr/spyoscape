@@ -98,6 +98,16 @@
         ],
         "image": "static/images/artistic-integrity-you-are....jpg"
     },
+    "BAADER MAiNHOF": {
+        "lat": 55.671155,
+        "lng": 12.546128,
+        "authors": [
+            "SPYO",
+            "BRAVO",
+            "Dataejer: <a href='https://dataforsyningen.dk/data/1036'>Klimadatastyrelsen</a> (<a href='https://creativecommons.org/licenses/by/4.0/deed.da'>CC BY 4.0</a>)"
+        ],
+        "image": "static/images/freaks-come-out-at-nite.png"
+    },
     "BAR ROLiG Vi FRA MYNDIGHEDERNE": {
         "lat": 55.706921,
         "lng": 12.527128,
@@ -505,6 +515,16 @@
             "SPYO"
         ],
         "image": "static/images/FORG\u00c6LDET.webp"
+    },
+    "FREAKs COME OUT AT NiTE": {
+        "lat": 55.670914,
+        "lng": 12.546261,
+        "authors": [
+            "SPYO",
+            "BRAVO",
+            "Dataejer: <a href='https://dataforsyningen.dk/data/1036'>Klimadatastyrelsen</a> (<a href='https://creativecommons.org/licenses/by/4.0/deed.da'>CC BY 4.0</a>)"
+        ],
+        "image": "static/images/freaks-come-out-at-nite.png"
     },
     "FREE PALESTiNE": {
         "lat": 55.684922,
@@ -1254,6 +1274,16 @@
         ],
         "image": "static/images/skabsfacister.jpg"
     },
+    "SLUM": {
+        "lat": 55.670569,
+        "lng": 12.546207,
+        "authors": [
+            "SPYO",
+            "BRAVO",
+            "Dataejer: <a href='https://dataforsyningen.dk/data/1036'>Klimadatastyrelsen</a> (<a href='https://creativecommons.org/licenses/by/4.0/deed.da'>CC BY 4.0</a>)"
+        ],
+        "image": "static/images/slum.png"
+    },
     "SM\u00c5BORGERLiGHEDEN?": {
         "lat": 55.642494,
         "lng": 12.50319,
@@ -1561,6 +1591,16 @@
             "KURD1"
         ],
         "image": "static/images/politiciansucks.jpg"
+    },
+    "VOKSENBARN UDEN NEM I.D.": {
+        "lat": 55.670432,
+        "lng": 12.546081,
+        "authors": [
+            "SPYO",
+            "BRAVO",
+            "Dataejer: <a href='https://dataforsyningen.dk/data/1036'>Klimadatastyrelsen</a> (<a href='https://creativecommons.org/licenses/by/4.0/deed.da'>CC BY 4.0</a>)"
+        ],
+        "image": "static/images/voksenbarn-uden-nemid.png"
     },
     "WATCH UR LIFE VANISH FROM CAPiTALiSM !": {
         "lat": 55.721368,
