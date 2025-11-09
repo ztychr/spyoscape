@@ -1052,6 +1052,14 @@
         ],
         "image": "static/images/normen-trives.jpg"
     },
+    "NORMRyttERiET-LEVER": {
+        "lat": 55.710311,
+        "lng": 12.478683,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/normrytteriet-lever.jpg"
+    },
     "ORDNUNG MUSS SEiN!": {
         "lat": 55.692228,
         "lng": 12.563014,
@@ -1371,6 +1379,14 @@
             "SPYO"
         ],
         "image": "static/images/STiGMATiZED.webp"
+    },
+    "STiK DiNE DEADLiNES...": {
+        "lat": 55.710322,
+        "lng": 12.478637,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/normrytteriet-lever.jpg"
     },
     "STiNKER AF GENTRiFiCERiNG!": {
         "lat": 55.706784,
