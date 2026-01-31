@@ -577,13 +577,13 @@
         ],
         "image": "static/images/genocide.jpeg"
     },
-    "Gl\u00c6DLiG ANGST OG GO": {
+    "GL\u00c6DELiG ANGST OG GODT SAM'NBRUD": {
         "lat": 55.706356,
         "lng": 12.542257,
         "authors": [
             "SPYO"
         ],
-        "image": "static/images/Gl\u00c6DLiG ANGST OG GO.webp"
+        "image": "static/images/glaedelig-angst-og-godt-samnbrud.jpg"
     },
     "GOVERMENT LiES!": {
         "lat": 55.657069,
@@ -804,6 +804,14 @@
         ],
         "image": "static/images/jYSKHEL\u00c5RS TURiST S\u00d8GES TiL BLiD OG GENSiDiG TEAM BUiLDiNG.webp"
     },
+    "KA METTE MIN MENTALiSERE?": {
+        "lat": 55.706433,
+        "lng": 12.543139,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/ka-mette-mon-mentalisere.jpg"
+    },
     "KAPiTALEN ER BEGEJSTRET": {
         "lat": 55.667409,
         "lng": 12.539276,
@@ -821,6 +829,15 @@
             "SPYO"
         ],
         "image": "static/images/kbhs-kommune-din-kaerlige-krykstok.jpg"
+    },
+    "KiDS AT HEART": {
+        "lat": 55.667683,
+        "lng": 12.538633,
+        "authors": [
+            "SPYO",
+            "FNUG"
+        ],
+        "image": "static/images/kids-at-heart.jpg"
     },
     "KiL UR EGO": {
         "lat": 55.650416,
@@ -1060,6 +1077,14 @@
         ],
         "image": "static/images/normrytteriet-lever.jpg"
     },
+    "N\u00c5R iNKOMPETENCE ER SPiDSKOMPETENCE": {
+        "lat": 55.766097,
+        "lng": 12.5089,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/naar-inkompetence-er-spidskompetance.jpg"
+    },
     "ORDNUNG MUSS SEiN!": {
         "lat": 55.692228,
         "lng": 12.563014,
@@ -1258,6 +1283,14 @@
         ],
         "image": "static/images/self-sufficient-with-no-image.jpeg"
     },
+    "SELFHATE": {
+        "lat": 55.663539,
+        "lng": 12.537517,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/selfhate.jpg"
+    },
     "SELVCENTER'D": {
         "lat": 55.660589,
         "lng": 12.514628,
@@ -1324,6 +1357,14 @@
         ],
         "image": "static/images/sovepillen.jpg"
     },
+    "SPYO GRAFFiTi'NS AMiN JENSEN": {
+        "lat": 55.706044,
+        "lng": 12.543631,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/spyo-graffitins-amin-jensen.jpg"
+    },
     "SPYO-StREEt ARtENS tESSA": {
         "lat": 55.7003787,
         "lng": 12.5336687,
@@ -1388,13 +1429,21 @@
         ],
         "image": "static/images/normrytteriet-lever.jpg"
     },
-    "STiNKER AF GENTRiFiCERiNG!": {
+    "StiLStAND i VORES TiLSTAND": {
+        "lat": 55.682969,
+        "lng": 12.552847,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/stilstand-i-vores-tilstand.jpg"
+    },
+    "STiNKER AF GENTRiFiCERiNG! &USSEL PROFiTMAGERi": {
         "lat": 55.706784,
         "lng": 12.5426,
         "authors": [
             "SPYO"
         ],
-        "image": "static/images/STiNKER AF GENTRiFiCERiNG!.webp"
+        "image": "static/images/stinker-af-gentrificering-og-ussel-profitmageri.jpg"
     },
     "STOP iSRAEL NOW!": {
         "lat": 55.688413,
@@ -1549,6 +1598,14 @@
             "SPYO"
         ],
         "image": "static/images/try-privatizing-this.jpg"
+    },
+    "TR\u00c6K AnGSTEn FRA i SKAT": {
+        "lat": 55.697787,
+        "lng": 12.541344,
+        "authors": [
+            "SPYO"
+        ],
+        "image": "static/images/selvfed-isme.jpg"
     },
     "TURN OFF THE MAiN STREAM MEDiA!": {
         "lat": 55.699622,
