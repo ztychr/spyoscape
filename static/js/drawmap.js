@@ -37,7 +37,7 @@ marker_layer.addTo(map);
 var overlayMaps = {
     "Markers": marker_layer,
     "Heatmap": heatmap_layer,
-    "Cluster": cluster_layer
+    "Cluster": cluster_layer,
 };
 
 var layerControl = L.control.layers({},overlayMaps,{
@@ -83,7 +83,7 @@ function onMapClick(e) {
     console.log(e.latlng["lat"]);
 }
 
-map.on('click', onMapClick);
+// map.on('click', onMapClick);
 
 map.on('popupopen', function (e) {
     const popupEl = e.popup.getElement();
@@ -139,7 +139,7 @@ fetch('static/js/data.json')
 
             var authorsList = markerData.authors.join(', ');
 
-            marker.bindPopup(`<img id="zoom-image-${index}" class="zoomable-img" src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: false});
+            marker.bindPopup(`<img id="zoom-image-${index}" class="zoomable-img" src="${markerData.image}" alt="${name}"> ${name} - ${authorsList}`, {maxWidth: 800, closeButton: true});
 
             markers[name] = {marker: marker, index: index};
 
