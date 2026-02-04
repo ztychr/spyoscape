@@ -47,12 +47,11 @@ li::before {
 header img.banner {
     display: block;
     margin-right: auto;
-    height: 10vh;
     max-width: 60vw;
 }
 
-a.source-code img {
-    width: 40px;
+header img.source-code {
+    height:unset;
 }
 
 a.source-code {
@@ -165,6 +164,10 @@ a:hover {
         grid-template-columns: 2fr 1fr;
         grid-template-rows: auto 1fr;
         height: 100vh;
+    }
+
+    header img.banner {
+        height: 15vh;
     }
 
     header img {
