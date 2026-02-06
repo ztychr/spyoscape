@@ -1,5 +1,7 @@
 # SPYOSCAPE
 
+## ⚠️ This project has moved to Gitlab at https://gitlab.com/ztychr/spyoscape
+
 **SPYOSCAPE ([spyoscape.dk](https://spyoscape.dk))** is a (work in progress) hobby project that aims to localise and map the artwork of the Danish graffiti artist **SPYO**. The artwork included on this site contains only political statements, phrases or alike. This means that regular tags and throwups etc. are not mapped.
 
 ![spyoscape.dk](spyoscape.png)
